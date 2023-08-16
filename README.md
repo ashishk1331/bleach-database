@@ -1,4 +1,4 @@
-![Bleach Banner](banner.jpg "Banner")
+![Bleach Banner](banner.jpeg "Banner")
 
 # The Bleach Database
 
