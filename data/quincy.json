@@ -1,42 +1,36 @@
 [
     {
-        "name": "Robert Accutrone",
+        "id": "robert_accutrone",
+        "name": {
+            "english": "Robert Accutrone",
+            "kanji": "ロバート・アキュトロン",
+            "romaji": "Robāto Akyutoron"
+        },
+        "description": "Robert Accutrone in \"OUT OF BLOOM\"Good indeed. It is joyous seeing your morale lifted. Most certainly so. But, you lot are mistaken in regards to one thing. The boss of you lot shall be defeated by ours. Therefore, you lot aren't the only ones whose spirits are lifted when their boss fights! Robert Accutrone (ロバート・アキュトロン, Robāto Akyutoron) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"N\". Robert has light brown, swept back hair and a full mustache.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/a/ae/Ep370RobertProfile.png/revision/latest?cb=20221031203302&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "gender": "male",
+            "race": "Quincy",
+            "gender": "Male",
             "height": "176 cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"n\"[1]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"N\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi pistol"
+                "spirit weapon": "Reishi Pistol"
             },
             "First Appearance": {
-                "manga": "chapter 494",
-                "anime": "episode 369"
+                "manga": "Chapter 494",
+                "anime": "Episode 369"
             },
             "Voices": {
-                "japanese": "takaya hashi",
-                "english": "neil kaplan"
+                "japanese": "Takaya Hashi",
+                "english": "Neil Kaplan"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/a/ae/Ep370RobertProfile.png/revision/latest?cb=20221031203302&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/5e/497Robert_attacks.png/revision/latest?cb=20170827210409&path-prefix=en",
                 "alt": "Robert attacks Shunsui."
@@ -51,7 +45,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/61/603Robert_is_killed.png/revision/latest?cb=20190501024701&path-prefix=en",
-                "alt": "Robert is engulfed by Yhwach's Ausw\u00e4hlen."
+                "alt": "Robert is engulfed by Yhwach's Auswählen."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/53/Shadow373.gif/revision/latest?cb=20230225152914&path-prefix=en",
@@ -69,7 +63,7 @@
         "quotes": [
             {
                 "quote": "Good indeed. It is joyous seeing your morale lifted. Most certainly so. But, you lot are mistaken in regards to one thing. The boss of you lot shall be defeated by ours. Therefore, you lot aren't the only ones whose spirits are lifted when their boss fights!",
-                "to": "Shunsui Ky\u014draku",
+                "to": "Shunsui Kyōraku",
                 "reference": "5.0 5.1 5.2 Bleach manga; Chapter 506, pages 1-3"
             },
             {
@@ -80,45 +74,39 @@
         ]
     },
     {
-        "name": "Lille Barro",
+        "id": "lille_barro",
+        "name": {
+            "english": "Lille Barro",
+            "kanji": "リジェ・バロ, Rije Baro) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"X\" - \"The X-Axis\", as well as the leader of Yhwach's Schutzstaffel (親衛隊 (シュッツシュタッフェル), Shuttsushutafferu; German for \"Protective Echelon\"",
+            "romaji": "Japanese for \"Elite/Imperial Guards\""
+        },
+        "description": "Lille Barro in BABY,HOLD YOUR HANDI am immortal. I am invincible. I am an envoy of God, with privileges befitting of such. Faced with an envoy of God, there is nothing a sinner can hope to achieve! Lille Barro (リジェ・バロ, Rije Baro) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"X\" - \"The X-Axis\", as well as the leader of Yhwach's Schutzstaffel (親衛隊 (シュッツシュタッフェル), Shuttsushutafferu; German for \"Protective Echelon\", Japanese for \"Elite/Imperial Guards\").",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e9/600Lille_profile.png/revision/latest?cb=20190430014642&path-prefix=en",
         "stats": {
-            "race": "quincy",
+            "race": "Quincy",
             "age": "1000+",
-            "gender": "male",
+            "gender": "Male",
             "Professional Status": {
-                "affiliation": "wandenreich",
-                "occupation": "leader of the schutzstaffel[1]",
-                "epithet": "x - the x-axis[2]",
-                "team": "sternritterschutzstaffel",
-                "base of operations": "silbern"
+                "affiliation": "Wandenreich",
+                "occupation": "Leader of the Schutzstaffel",
+                "epithet": "X - The X-Axis",
+                "team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "diagramm",
-                "signature skill": "spatial piercing & spatial phasing"
+                "spirit weapon": "Diagramm",
+                "signature skill": "Spatial Piercing & Spatial Phasing"
             },
             "First Appearance": {
-                "manga": "chapter 599",
-                "anime": "episode 380",
-                "video game": "bleach: brave souls"
+                "manga": "Chapter 599",
+                "anime": "Episode 380",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "satoshi hino"
+                "japanese": "Satoshi Hino"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e9/600Lille_profile.png/revision/latest?cb=20190430014642&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a7/Lille%27s_Glove_Design.png/revision/latest?cb=20150805043933&path-prefix=en",
                 "alt": "The design embroidered on Lille's gloves."
@@ -177,7 +165,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/b4/652Nanao_severs.png/revision/latest?cb=20190514053743&path-prefix=en",
-                "alt": "Nanao severs Lille's hand with Shinken Hakky\u014dken."
+                "alt": "Nanao severs Lille's hand with Shinken Hakkyōken."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/ba/653Lille_disintegrates.png/revision/latest?cb=20190518053105&path-prefix=en",
@@ -193,7 +181,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9f/646Lille%27s_Vollstandig%2C_Jilliel.png/revision/latest?cb=20190514050934&path-prefix=en",
-                "alt": "Lille's Quincy: Vollst\u00e4ndig, Jilliel."
+                "alt": "Lille's Quincy: Vollständig, Jilliel."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/cc/647Lille_teleports.png/revision/latest?cb=20190514051217&path-prefix=en",
@@ -224,73 +212,70 @@
             },
             {
                 "quote": "It is the way of the world that those creatures which break away from the group are the first to die.",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 635, page 12"
             },
             {
                 "quote": "I am the final Quincy upon whom His Majesty bestowed his power. I am his ultimate creation. Closer to God than any other man. For one such as myself to be forced to open his eyes three times is tantamount to heresy.",
-                "to": "Shunsui Ky\u014draku",
+                "to": "Shunsui Kyōraku",
                 "reference": "10.0 10.1 10.2 10.3 Bleach manga; Chapter 646, page 14"
             },
             {
                 "quote": "An envoy of God knows not despair.",
-                "to": "Shunsui Ky\u014draku",
+                "to": "Shunsui Kyōraku",
                 "reference": "Bleach manga; Chapter 648, page 10"
             },
             {
                 "quote": "Do you believe this fight to be over? Do you think you can kill me? As if the Bankai of a mere Shinigami would be able to take my life!",
-                "to": "Shunsui Ky\u014draku",
+                "to": "Shunsui Kyōraku",
                 "reference": "Bleach manga; Chapter 649, page 8"
             },
             {
-                "quote": "This is despair, Shunsui Ky\u014draku. Your weapons could not kill me. Even slicing my head clean off with Reiatsu could not kill me. Sinners such as yourself look on this form and see despair. I am immortal. I am invincible. I am an envoy of God, with privileges befitting of such. Faced with an envoy of God, there is nothing a sinner can hope to achieve!",
-                "to": "Shunsui Ky\u014draku",
+                "quote": "This is despair, Shunsui Kyōraku. Your weapons could not kill me. Even slicing my head clean off with Reiatsu could not kill me. Sinners such as yourself look on this form and see despair. I am immortal. I am invincible. I am an envoy of God, with privileges befitting of such. Faced with an envoy of God, there is nothing a sinner can hope to achieve!",
+                "to": "Shunsui Kyōraku",
                 "reference": "Bleach manga; Chapter 650, pages 4-5"
             }
         ]
     },
     {
-        "name": "Bambietta Basterbine",
+        "id": "bambietta_basterbine",
+        "name": {
+            "english": "Bambietta Basterbine",
+            "kanji": "バンビエッタ・バスターバイン",
+            "romaji": "Banbietta Basutābain"
+        },
+        "description": "Bambietta Basterbine (バンビエッタ・バスターバイン, Banbietta Basutābain) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"E\" - \"The Explode\". Bambietta is a slender young girl with long, straight, dark brown hair and brown eyes. Her attire is a variation of the Sternritter's typical white uniform, consisting of the order's signature hooded-cloak, a thigh-length trench coat, knee-high boots, a miniskirt, and black stockings with a red trim on her gloves and boots.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/b/b6/Ep383BambiettaProfile.png/revision/latest?cb=20230729195015&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "august 6",
-            "gender": "female",
-            "height": "156 cm (5'1\u00bd\")",
+            "race": "Quincy",
+            "birthday": "August 6",
+            "gender": "Female",
+            "height": "156 cm (5'1½\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"e\" - \"the explode\"[1][2]",
-                "previous team": "sternritter bambie's",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"E\" - \"The Explode\"[1]",
+                "previous team": [
+                    "Sternritter",
+                    "Bambie's"
+                ],
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi sword",
-                "signature skill": "bomb transformation"
+                "spirit weapon": "Reishi Sword",
+                "signature skill": "Bomb Transformation"
             },
             "First Appearance": {
-                "manga": "chapter 490",
-                "anime": "episode 369",
-                "video game": "bleach: brave souls"
+                "manga": "Chapter 490",
+                "anime": "Episode 369",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "ayana taketatsu",
-                "english": "anne yatco",
-                "spanish": "cynthia chong (latin america)"
+                "japanese": "Ayana Taketatsu",
+                "english": "Anne Yatco",
+                "spanish": "Cynthia Chong"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/b/b6/Ep383BambiettaProfile.png/revision/latest?cb=20230729195015&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/eb/Ep370KomamuraConfrontsBambietta.png/revision/latest?cb=20221031202709&path-prefix=en",
                 "alt": "Bambietta is intercepted by Komamura."
@@ -301,7 +286,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f4/Ep382BambiettaVollstandig.png/revision/latest?cb=20230722214748&path-prefix=en",
-                "alt": "Bambietta confronts Komamura and Shinji with her Quincy: Vollst\u00e4ndig."
+                "alt": "Bambietta confronts Komamura and Shinji with her Quincy: Vollständig."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/13/Ep383BambiettaLearnsUnlife.png/revision/latest?cb=20230729193236&path-prefix=en",
@@ -325,7 +310,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e9/497Bambietta%27s_Medallion.png/revision/latest?cb=20170827210014&path-prefix=en",
-                "alt": "Bambietta steals Kokuj\u014d Tengen My\u014d'\u014d."
+                "alt": "Bambietta steals Kokujō Tengen Myō'ō."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/TheExplode.gif/revision/latest?cb=20230813000115&path-prefix=en",
@@ -337,7 +322,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/77/Ep383BambiettaVollstandig.png/revision/latest?cb=20230730001808&path-prefix=en",
-                "alt": "Bambietta's Quincy: Vollst\u00e4ndig."
+                "alt": "Bambietta's Quincy: Vollständig."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3c/BBSBambietta.png/revision/latest?cb=20200808065456&path-prefix=en",
@@ -358,46 +343,44 @@
         ]
     },
     {
-        "name": "Bazz-B",
+        "id": "bazz-b",
+        "name": {
+            "english": "Bazz-B",
+            "kanji": "バザード•ブラック, Bazādo Burakku), more commonly known as Bazz-B (バズビー",
+            "romaji": "Bazubī"
+        },
+        "description": "Bazz-B in \"THE LAST 9DAYS\"It's a pity you don't have your Bankai right now, really. I would've liked to show you how I can annihilate your Bankai's ice with a single finger. Bazzard Black (バザード•ブラック, Bazādo Burakku), more commonly known as Bazz-B (バズビー, Bazubī), is a Quincy and a member of the Wandenreich's Sternritter, with the designation \"H\" - \"The Heat\".",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/3/30/Ep380BazzBProfile.png/revision/latest?cb=20230708202502&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/e/e7/Ch631_Young_Bazz-B_Profile.png/revision/latest?cb=20190614142505&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "birthday": "july 14th",
-            "age": "1000+[1]",
-            "gender": "male",
-            "height": "179 cm (5'10\u00bd\")",
+            "race": "Quincy",
+            "birthday": "July 14th",
+            "age": "1000+",
+            "gender": "Male",
+            "height": "179 cm (5'10½\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"h\"- \"the heat\"[2]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"H\"- \"The Heat\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen[3]",
-                "signature skill": "fire manipulation[4]"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Fire Manipulation"
             },
             "First Appearance": {
-                "manga": "chapter 490",
-                "anime": "episode 369",
-                "video game": "bleach: brave souls"
+                "manga": "Chapter 490",
+                "anime": "Episode 369",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "y\u016bki ono",
-                "english": "xander mobus"
+                "japanese": "Yūki Ono",
+                "english": "Xander Mobus"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/30/Ep380BazzBProfile.png/revision/latest?cb=20230708202502&path-prefix=en",
                 "alt": "Adult"
@@ -500,7 +483,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2f/584Bazz-B%27s_Vollstandig.png/revision/latest?cb=20170905010339&path-prefix=en",
-                "alt": "Bazz-B's Quincy: Vollst\u00e4ndig."
+                "alt": "Bazz-B's Quincy: Vollständig."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/67/BBSBazz-B.png/revision/latest?cb=20200812090610&path-prefix=en",
@@ -525,17 +508,17 @@
             },
             {
                 "quote": "You ain't gonna leave already, are you? It's not nice to run off somewhere else when we're still just getting warmed up! You haven't even let me start fighting for real yet!",
-                "to": "T\u014dshir\u014d Hitsugaya",
+                "to": "Tōshirō Hitsugaya",
                 "reference": "Bleach manga; Chapter 549, pages 16-17"
             },
             {
                 "quote": "A wall of ice made of intricately interwoven strands, huh? You're a thinker, I'll give you that. But there's something you need to learn. No matter what you do with that ice of yours, one finger is all it takes.",
-                "to": "T\u014dshir\u014d Hitsugaya",
+                "to": "Tōshirō Hitsugaya",
                 "reference": "Bleach manga; Chapter 550, page 16"
             },
             {
                 "quote": "How many times do I have to tell you I can crush your ice with one finger?! Or are you just trying to piss me off enough that I'll start using two?!",
-                "to": "T\u014dshir\u014d Hitsugaya",
+                "to": "Tōshirō Hitsugaya",
                 "reference": "Bleach manga; Chapter 551, page 13"
             },
             {
@@ -555,7 +538,7 @@
             },
             {
                 "quote": "I'm not asking you to trust me. Or that I'm gonna just help you for nothing. I want something in return. We'll help with rebuilding your gate to the Soul King Palace. In return, I want you to take us there. We want to murder that asshole Yhwach who left us for dead.",
-                "to": "Shunsui Ky\u014draku",
+                "to": "Shunsui Kyōraku",
                 "reference": "Bleach manga; Chapter 623, pages 16-17"
             },
             {
@@ -570,7 +553,7 @@
             },
             {
                 "quote": " I felt sure that partnering myself with Jugo would bring no merit whatsoever in my quest to kill Yhwach. And yet, as I watched him devoting his heart and soul to the sword and the bow, working even harder than me, as if to make up for his utter lack of talent, I simply couldn't bring myself to abandon him.",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 632, page 3"
             },
             {
@@ -581,48 +564,42 @@
         ]
     },
     {
-        "name": "Driscoll Berci",
+        "id": "driscoll_berci",
+        "name": {
+            "english": "Driscoll Berci",
+            "kanji": "ドリスコール・ベルチ",
+            "romaji": "Dorisukōru Beruchi"
+        },
+        "description": "Driscoll Berci in \"OUT OF BLOOM\"Wheeeeeewwww! This sucks! It sucks, it sucks, it sucks, it sucks, it sucks, it sucks, it sucks sooooo bad! It sucks so bad to be weak, ain't that right, Lieutenant! Driscoll Berci (ドリスコール・ベルチ, Dorisukōru Beruchi) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"O\" - \"The Overkill\".",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/4/46/Ep371DriscollProfile2.png/revision/latest?cb=20221107201253&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "march 25th",
-            "gender": "male",
+            "race": "Quincy",
+            "birthday": "March 25th",
+            "gender": "Male",
             "height": "235 cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"o\" - \"the overkill\"[1]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"O\" - \"The Overkill\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi tekk\u014d",
-                "signature skill": "killing-inducedempowerment"
+                "spirit weapon": "Reishi Tekkō",
+                "signature skill": "Killing-InducedEmpowerment"
             },
             "First Appearance": {
-                "manga": "chapter 494",
-                "anime": "episode 369"
+                "manga": "Chapter 494",
+                "anime": "Episode 369"
             },
             "Voices": {
-                "japanese": "nobuaki kanemitsu",
-                "english": "bill butts"
+                "japanese": "Nobuaki Kanemitsu",
+                "english": "Bill Butts"
             }
         },
         "media": [
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/4/46/Ep371DriscollProfile2.png/revision/latest?cb=20221107201253&path-prefix=en",
-                "alt": ""
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f0/Ep367ChojiroImpaled.png/revision/latest?cb=20221010201432&path-prefix=en",
-                "alt": "Ch\u014djir\u014d is impaled by one of Driscoll's arrows."
+                "alt": "Chōjirō is impaled by one of Driscoll's arrows."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/0b/503Driscoll_confronts.png/revision/latest?cb=20170829010547&path-prefix=en",
@@ -638,7 +615,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fc/Ep371DriscollHeiligPfeil.png/revision/latest?cb=20221107201355&path-prefix=en",
-                "alt": "Driscoll's Reishi Tekk\u014d."
+                "alt": "Driscoll's Reishi Tekkō."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f2/ReishiTekk%C5%8D.gif/revision/latest?cb=20221204230531&path-prefix=en",
@@ -648,49 +625,43 @@
         "quotes": [
             {
                 "quote": "Wheeeeeewwww! This sucks! It sucks, it sucks, it sucks, it sucks, it sucks, it sucks, it sucks sooooo bad! It sucks so bad to be weak, ain't that right, Lieutenant!",
-                "to": "Sh\u016bhei Hisagi",
+                "to": "Shūhei Hisagi",
                 "reference": "3.0 3.1 3.2 Bleach manga; Chapter 503, page 11"
             }
         ]
     },
     {
-        "name": "BG9",
+        "id": "bg9",
+        "name": {
+            "english": "BG9",
+            "kanji": "ベー・ゲー・ノイン",
+            "romaji": "Bē Gē Noin"
+        },
+        "description": "BG9 in \"THE LAST 9DAYS\"Life? I had none to begin with. BG9 (ベー・ゲー・ノイン, Bē Gē Noin) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"K\". BG9 is a tall individual who wears a white helmet which conceals its entire head and its single, glowing eye. At its front, the helmet has a peak at the center with slits on both sides. BG9 wears a white, high collar cloak, under which it hides many extendable, tendril-like appendages.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/1/1d/Ep370BG9Profile.png/revision/latest?cb=20221112221723&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "gender": "unknown",
+            "race": "Quincy",
+            "gender": "Unknown",
             "height": "190 cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"k\"",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"K\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi minigun"
+                "spirit weapon": "Reishi Minigun"
             },
             "First Appearance": {
-                "manga": "chapter 495",
-                "anime": "episode 370"
+                "manga": "Chapter 495",
+                "anime": "Episode 370"
             },
             "Voices": {
-                "japanese": "hideyuki tanaka",
-                "english": "aaron laplante"
+                "japanese": "Hideyuki Tanaka",
+                "english": "Aaron LaPlante"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/1/1d/Ep370BG9Profile.png/revision/latest?cb=20221112221723&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/11/Ep381BG9Uncloaked.png/revision/latest?cb=20230715202255&path-prefix=en",
                 "alt": "BG9 uncloaked."
@@ -701,7 +672,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/77/Ep382BG9AttemptsExtraction.png/revision/latest?cb=20230722213202&path-prefix=en",
-                "alt": "BG9 attempts to gather data from Su\u00ec-F\u0113ng's body."
+                "alt": "BG9 attempts to gather data from Suì-Fēng's body."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/28/559BG9_and_Cang_sit.png/revision/latest?cb=20170902181419&path-prefix=en",
@@ -715,84 +686,81 @@
         "quotes": [
             {
                 "quote": "This is a relative of yours, correct? I do not require verbal confirmation. Though the visual conformity between yourselves is extremely low, the Reiatsu conformity exceeds levels of 50%. Furthermore, I detect three other individuals with Reiatsu conformity exceeding 50% with your own within a 30 meter radius of this location. If you refuse to answer again, I will eliminate all of these targets immediately.",
-                "to": "Marechiyo \u014cmaeda regarding Mareyo \u014cmaeda",
+                "to": "Marechiyo Ōmaeda regarding Mareyo Ōmaeda",
                 "reference": "Bleach manga; Chapter 549, page 6"
             },
             {
                 "quote": "I have two queries. Firstly, should I take your response as a refusal to answer? And secondly, if I release this individual now, large quantities of bodily fluid will be expelled from the wound, resulting in death. Is this acceptable to you? There is a possibility that your linguistic faculties have ceased to correctly function due to shock. I will grant you 15 seconds. I await your answer.",
-                "to": "Marechiyo \u014cmaeda",
+                "to": "Marechiyo Ōmaeda",
                 "reference": "Bleach manga; Chapter 549, pages 7-8"
             },
             {
                 "quote": "Life? I had none to begin with.",
-                "to": "Su\u00ec-F\u0113ng",
+                "to": "Suì-Fēng",
                 "reference": "Bleach manga; Chapter 550, page 9"
             },
             {
-                "quote": "Muky\u016b Shunk\u014d. I must thank you for the valuable data. However, I am also quite disappointed. If this is the best you can do, I will have no need of the Bankai I stole from you.",
-                "to": "Su\u00ec-F\u0113ng",
+                "quote": "Mukyū Shunkō. I must thank you for the valuable data. However, I am also quite disappointed. If this is the best you can do, I will have no need of the Bankai I stole from you.",
+                "to": "Suì-Fēng",
                 "reference": "Bleach manga; Chapter 550, page 10"
             },
             {
                 "quote": "Even after your captain is defeated, you have the will to resist? I was hoping to recover some data before she perished completely, but if we must...",
-                "to": "Marechiyo \u014cmaeda",
+                "to": "Marechiyo Ōmaeda",
                 "reference": "Bleach manga; Chapter 553, page 4"
             },
             {
-                "quote": "Wait a moment, please! Yes, we suffered a temporary defeat in battle, but by releasing our Vollst\u00e4ndig, we were able to recover! We can still fight for Your Majesty's sake!",
+                "quote": "Wait a moment, please! Yes, we suffered a temporary defeat in battle, but by releasing our Vollständig, we were able to recover! We can still fight for Your Majesty's sake!",
                 "to": "Yhwach",
                 "reference": "Bleach manga; Chapter 559, page 10"
             }
         ]
     },
     {
-        "name": "Candice Catnipp",
+        "id": "candice_catnipp",
+        "name": {
+            "english": "Candice Catnipp",
+            "kanji": "キャンディス・キャットニップ",
+            "romaji": "Kyandisu Kyattonippu"
+        },
+        "description": "Candice Catnipp in \"The Headless Star\"All I know is that this guy just covered me in dirt...and that he's not getting away with it! How the hell many hours earlier than everyone else d'you think I have to get up every day to make sure my hair is perfect, eh?! Candice Catnipp (キャンディス・キャットニップ, Kyandisu Kyattonippu) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"T\" - The Thunderbolt. Candice is a tall and well-endowed young woman with long, light-green hair.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/6/66/580Candice_profile.png/revision/latest?cb=20170904015058&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "june 7[1]",
-            "gender": "female",
-            "height": "166 cm (5'5\u00be\")[1]",
+            "race": "Quincy",
+            "birthday": "June 7",
+            "gender": "Female",
+            "height": "166 cm (5'5¾\")",
             "Professional Status": {
-                "affiliation": "wandenreich",
-                "epithet": "\"t\"[2]- \"the thunderbolt\"[3]",
-                "team": "sternritter bambie's",
-                "base of operations": "silbern"
+                "affiliation": "Wandenreich",
+                "epithet": "\"T\"[2]- \"The Thunderbolt\"",
+                "team": [
+                    "Sternritter",
+                    "Bambie's"
+                ],
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen",
-                "signature skill": "lightning bolt projection"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Lightning Bolt Projection"
             },
             "First Appearance": {
-                "manga": "chapter 544",
-                "anime": "episode 380",
-                "video game": "bleach: brave souls"
+                "manga": "Chapter 544",
+                "anime": "Episode 380",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "yumi uchiyama",
-                "english": "shara kirby"
+                "japanese": "Yumi Uchiyama",
+                "english": "Shara Kirby"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/6/66/580Candice_profile.png/revision/latest?cb=20170904015058&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3a/544Candice_is_interrupted.png/revision/latest?cb=20170901164848&path-prefix=en",
                 "alt": "Candice is interrupted by Bambietta blasting a hole in the wall."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/10/555Candice%27s_Vollstandig_appears.png/revision/latest?cb=20170902180251&path-prefix=en",
-                "alt": "Candice notices her Quincy: Vollst\u00e4ndig wings popped out."
+                "alt": "Candice notices her Quincy: Vollständig wings popped out."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/22/580Kenpachi_attacks.png/revision/latest?cb=20170904015118&path-prefix=en",
@@ -820,7 +788,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f5/Ep383CandiceVollstandig.png/revision/latest?cb=20230730045847&path-prefix=en",
-                "alt": "Candice's Quincy: Vollst\u00e4ndig."
+                "alt": "Candice's Quincy: Vollständig."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/1f/BBSCandice.png/revision/latest?cb=20200808065915&path-prefix=en",
@@ -836,42 +804,39 @@
         ]
     },
     {
-        "name": "Shaz Domino",
+        "id": "shaz_domino",
+        "name": {
+            "english": "Shaz Domino",
+            "kanji": "シャズ・ドミノ",
+            "romaji": "Shazu Domino"
+        },
+        "description": "Shaz Domino (シャズ・ドミノ, Shazu Domino) is a Quincy and a member of the Wandenreich's Sternritter army. Shaz is a slender man with blonde hair shaved into 5 parts. He has a number of markings similar to leopard spots on the right side of his face and wears full-framed glasses. His attire is the orders signature hooded-cloak, a variation of the Sternritter's typical white uniform with several buttons along his cuffs and pants, and coattails underneath a yellow leopard print vest.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/f/f9/512Shaz_profile.png/revision/latest?cb=20170830215707&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "gender": "male",
+            "race": "Quincy",
+            "gender": "Male",
             "Professional Status": {
-                "affiliation": "wandenreich, sternritter",
-                "epithet": "not revealed details",
-                "team": "sternritter",
-                "base of operations": "silbern"
+                "affiliation": [
+                    "Wandenreich",
+                    "Sternritter"
+                ],
+                "epithet": "Details",
+                "team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi knives",
-                "signature skill": "not revealed details"
+                "spirit weapon": "Reishi Knives",
+                "signature skill": "Details"
             },
             "First Appearance": {
-                "manga": "chapter 512",
-                "anime": "episode 373"
+                "manga": "Chapter 512",
+                "anime": "Episode 373"
             },
             "Voices": {
-                "japanese": "shinya takahashi"
+                "japanese": "Shinya Takahashi"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/f/f9/512Shaz_profile.png/revision/latest?cb=20170830215707&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/70/512Shaz_is_attacked.png/revision/latest?cb=20230318191830&path-prefix=en",
                 "alt": "Shaz is attacked."
@@ -883,48 +848,42 @@
         ]
     },
     {
-        "name": "Cang Du",
+        "id": "cang_du",
+        "name": {
+            "english": "Cang Du",
+            "kanji": "蒼都 (ツァン·トゥ)",
+            "romaji": "Tsan Tu"
+        },
+        "description": "Cang Du in \"HEART OF WOLF\"Those who spend their lives together should remain together in death. Cang Du (蒼都 (ツァン·トゥ), Tsan Tu) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"I\" - \"The Iron\". Cang is a fairly slim man with narrow pale-blue eyes and short black hair, with pointed bangs hanging between his eyes. He has a small, vertical scar over the left side of his mouth.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/4/44/Ep382CangProfile2.png/revision/latest?cb=20230722215027&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "may 27",
-            "gender": "male",
-            "height": "177 cm (5'9\u00bd\")",
+            "race": "Quincy",
+            "birthday": "May 27",
+            "gender": "Male",
+            "height": "177 cm (5'9½\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"i\" - \"the iron\"[1]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"I\" - \"The Iron\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi claws",
-                "signature skill": "iron skin mimicry"
+                "spirit weapon": "Reishi Claws",
+                "signature skill": "Iron Skin Mimicry"
             },
             "First Appearance": {
-                "manga": "chapter 495",
-                "anime": "episode 370"
+                "manga": "Chapter 495",
+                "anime": "Episode 370"
             },
             "Voices": {
-                "japanese": "ryo kuratomi",
-                "english": "landon mcdonald"
+                "japanese": "Ryo Kuratomi",
+                "english": "Landon McDonald"
             }
         },
         "media": [
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/4/44/Ep382CangProfile2.png/revision/latest?cb=20230722215027&path-prefix=en",
-                "alt": ""
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/30/Ep372CangSeesMelt.png/revision/latest?cb=20221116071952&path-prefix=en",
-                "alt": "Zanka no Tachi causes the stolen Daiguren Hy\u014drinmaru to evaporate."
+                "alt": "Zanka no Tachi causes the stolen Daiguren Hyōrinmaru to evaporate."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/20/551Cang_arrives.png/revision/latest?cb=20170902175033&path-prefix=en",
@@ -932,7 +891,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e8/Ep382CangLosesWing.png/revision/latest?cb=20230722213108&path-prefix=en",
-                "alt": "The stolen Daiguren Hy\u014drinmaru falls apart."
+                "alt": "The stolen Daiguren Hyōrinmaru falls apart."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4b/Ep382HitsugayaDefeatsCang.png/revision/latest?cb=20230722213647&path-prefix=en",
@@ -944,11 +903,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/40/497Cang%27s_Medallion.png/revision/latest?cb=20170827210045&path-prefix=en",
-                "alt": "Cang's medallion steals Daiguren Hy\u014drinmaru."
+                "alt": "Cang's medallion steals Daiguren Hyōrinmaru."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4c/TheIron370.gif/revision/latest?cb=20230111224033&path-prefix=en",
-                "alt": "Cang uses The Iron to protect himself from T\u014dshir\u014d Hitsugaya's blade."
+                "alt": "Cang uses The Iron to protect himself from Tōshirō Hitsugaya's blade."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fa/Ep370CangSpiritWeapon.png/revision/latest?cb=20221101063315&path-prefix=en",
@@ -958,17 +917,17 @@
         "quotes": [
             {
                 "quote": "Those who spend their lives together should remain together in death. That is my belief.",
-                "to": "T\u014dshir\u014d Hitsugaya",
+                "to": "Tōshirō Hitsugaya",
                 "reference": "Bleach manga; Chapter 552, page 3"
             },
             {
                 "quote": "This is your Bankai. Doubtless, you have never had the opportunity to see it from this perspective before. It is quite a beautiful Bankai. And of course... This Bankai too is ",
-                "to": "T\u014dshir\u014d Hitsugaya",
+                "to": "Tōshirō Hitsugaya",
                 "reference": "Bleach manga; Chapter 552, pages 5-6"
             },
             {
                 "quote": "I'm not a believer in pantheism.",
-                "to": "T\u014dshir\u014d Hitsugaya",
+                "to": "Tōshirō Hitsugaya",
                 "reference": "Bleach manga; Chapter 553, page 15"
             },
             {
@@ -978,49 +937,43 @@
             },
             {
                 "quote": "Cang Du is one of the few Quincy who wears flat shoes.",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Volume 62, page 60"
             }
         ]
     },
     {
-        "name": "Berenice Gabrielli",
+        "id": "berenice_gabrielli",
+        "name": {
+            "english": "Berenice Gabrielli",
+            "kanji": "ベレニケ・ガブリエリ",
+            "romaji": "Berenike Gaburieri"
+        },
+        "description": "Berenice Gabrielli (ベレニケ・ガブリエリ, Berenike Gaburieri) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"Q\" - \"The Question\". Berenice is a relatively slender individual. Their hair is mostly short and pink, but the right side of their bangs are longer and purple. Their fingernails are painted and each bear a dark diagonal line.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/6/61/Ep371BereniceProfile.png/revision/latest?cb=20221107175336&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "february 8th[1]",
-            "gender": "unknown",
-            "height": "174 cm[1]",
+            "race": "Quincy",
+            "birthday": "February 8th",
+            "gender": "Unknown",
+            "height": "174 cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"q\" - \"the question\"[2]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"Q\" - \"The Question\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "signature skill": "existence objection"
+                "signature skill": "Existence Objection"
             },
             "First Appearance": {
-                "manga": "chapter 502",
-                "anime": "episode 371"
+                "manga": "Chapter 502",
+                "anime": "Episode 371"
             },
             "Voices": {
-                "japanese": "ken'ichir\u014d \u014dhashi/kenn"
+                "japanese": "Ken'ichirō Ōhashi/Kenn"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/6/61/Ep371BereniceProfile.png/revision/latest?cb=20221107175336&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fa/Ep371KenpachiKillsBerenice.png/revision/latest?cb=20221107200909&path-prefix=en",
                 "alt": "Berenice is killed by Kenpachi Zaraki."
@@ -1035,45 +988,42 @@
         ]
     },
     {
-        "name": "Giselle Gewelle",
+        "id": "giselle_gewelle",
+        "name": {
+            "english": "Giselle Gewelle",
+            "kanji": "ジゼル・ジュエル",
+            "romaji": "Jizeru Jueru"
+        },
+        "description": "Giselle Gewelle (ジゼル・ジュエル, Jizeru Jueru) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"Z\" - \"The Zombie\". Giselle has blue eyes and long, black hair extending down to her lower back, with two strands sticking up like antennae. Her attire is a variation of the Sternritter's typical white uniform, consisting of a trench coat with long sleeves, white shoes, and black leggings.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/b/be/544Giselle_profile.png/revision/latest?cb=20211210183347&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "december 24[1]",
-            "gender": "female",
-            "height": "160cm[1]",
+            "race": "Quincy",
+            "birthday": "December 24",
+            "gender": "Female",
+            "height": "160cm",
             "Professional Status": {
-                "affiliation": "wandenreich",
-                "epithet": "\"z\"[2]- \"the zombie\"[3]",
-                "team": "sternritter bambie's",
-                "base of operations": "silbern"
+                "affiliation": "Wandenreich",
+                "epithet": "\"Z\"[2]- \"The Zombie\"",
+                "team": [
+                    "Sternritter",
+                    "Bambie's"
+                ],
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen",
-                "signature skill": "zombie conversion"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Zombie Conversion"
             },
             "First Appearance": {
-                "manga": "chapter 544",
-                "anime": "episode 380"
+                "manga": "Chapter 544",
+                "anime": "Episode 380"
             },
             "Voices": {
-                "japanese": "nao t\u014dyama",
-                "english": "casey mongillo"
+                "japanese": "Nao Tōyama",
+                "english": "Casey Mongillo"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/b/be/544Giselle_profile.png/revision/latest?cb=20211210183347&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3a/544Candice_is_interrupted.png/revision/latest?cb=20170901164848&path-prefix=en",
                 "alt": "Candice is interrupted by Bambietta blasting a hole in the wall."
@@ -1120,7 +1070,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/38/Ep383GiselleVollstandig.png/revision/latest?cb=20230729192106&path-prefix=en",
-                "alt": "Giselle's Quincy: Vollst\u00e4ndig."
+                "alt": "Giselle's Quincy: Vollständig."
             }
         ],
         "quotes": [
@@ -1132,44 +1082,38 @@
         ]
     },
     {
-        "name": "Jerome Guizbatt",
+        "id": "jerome_guizbatt",
+        "name": {
+            "english": "Jerome Guizbatt",
+            "kanji": "ジェローム・ギズバット",
+            "romaji": "Jerōmu Gizubatto"
+        },
+        "description": "Jerome Guizbatt (ジェローム・ギズバット, Jerōmu Gizubatto) is a Quincy and member of the Wandenreich's Sternritter with the designation \"R\" - \"The Roar\". Jerome is far larger and more muscular than the average person, with brown skin and black hair arranged into cornrows. He exhibits numerous ape-like characteristics, possessing pronounced upper-canines, sharpened fingernails, and patches of dark hair along his forearms and fingers.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/a/a4/Ep371JeromeProfile.png/revision/latest?cb=20221107213408&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "august 25th [1]",
-            "gender": "male",
-            "height": "189 cm (6'2 1/2\") [2]",
+            "race": "Quincy",
+            "birthday": "August 25th",
+            "gender": "Male",
+            "height": "189 cm (6'2 1/2\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"r\" - \"the roar\"[3]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"R\" - \"The Roar\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "signature skill": "sonic scream primate transformation"
+                "signature skill": "Sonic Scream Primate Transformation"
             },
             "First Appearance": {
-                "manga": "chapter 502",
-                "anime": "episode 371"
+                "manga": "Chapter 502",
+                "anime": "Episode 371"
             },
             "Voices": {
-                "japanese": "takahiro fujiwara",
-                "english": "todd haberkorn"
+                "japanese": "Takahiro Fujiwara",
+                "english": "Todd Haberkorn"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/a/a4/Ep371JeromeProfile.png/revision/latest?cb=20221107213408&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/82/640Jerome_profile.png/revision/latest?cb=20210816213021&path-prefix=en",
                 "alt": "Jerome while alive."
@@ -1185,48 +1129,46 @@
         ]
     },
     {
-        "name": "Jugram Haschwalth",
+        "id": "jugram_haschwalth",
+        "name": {
+            "english": "Jugram Haschwalth",
+            "kanji": "ユーグラム・ハッシュヴァルト, Yūguramu Hasshuvaruto) is a Quincy and the Wandenreich's Sternritter Grandmaster (星十字騎士団最高位 (シュテルンリッター・グランドマスター)",
+            "romaji": "Shuterunrittā Gurandomasutā; Japanese for \"Highest-Ranked of the Band of Star-Cross Knights\""
+        },
+        "description": "Jugram Haschwalth (ユーグラム・ハッシュヴァルト, Yūguramu Hasshuvaruto) is a Quincy and the Wandenreich's Sternritter Grandmaster (星十字騎士団最高位 (シュテルンリッター・グランドマスター), Shuterunrittā Gurandomasutā; Japanese for \"Highest-Ranked of the Band of Star-Cross Knights\") with the designation \"B\" - \"The Balance\". He is also the advisor to Emperor Yhwach and the substitute as the monarch when Yhwach sleeps, as well as the second-in-command of the Wandenreich.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/0/0d/Ep380HaschwalthProfile.png/revision/latest?cb=20230708202334&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/2/2f/631Child_Haschwalth.png/revision/latest?cb=20190505015732&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "birthday": "november 5",
-            "age": "1000+[1]",
-            "gender": "male",
-            "height": "189 cm (6\u20192\u00bd\")",
+            "race": "Quincy",
+            "birthday": "November 5",
+            "age": "1000+",
+            "gender": "Male",
+            "height": "189 cm (6’2½\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "occupation": "sternritter grandmaster[2]adviser to emperor[2]substitute emperor of wandenreich[3]",
-                "epithet": "\"b\" - \"the balance\"[4]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "occupation": "Sternritter Grandmaster[2]Adviser to Emperor[2]Substitute Emperor of Wandenreich",
+                "epithet": "\"B\" - \"The Balance\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi sword",
-                "signature skill": "misfortune redirection"
+                "spirit weapon": "Reishi Sword",
+                "signature skill": "Misfortune Redirection"
             },
             "First Appearance": {
-                "manga": "chapter 485",
-                "anime": "episode 368",
-                "video game": "bleach: brave souls"
+                "manga": "Chapter 485",
+                "anime": "Episode 368",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "y\u016bichir\u014d umehara",
-                "english": "robbie daymond",
-                "spanish": "ren\u00e9 garcia (latin america)"
+                "japanese": "Yūichirō Umehara",
+                "english": "Robbie Daymond",
+                "spanish": "René Garcia (Latin America)"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/0d/Ep380HaschwalthProfile.png/revision/latest?cb=20230708202334&path-prefix=en",
                 "alt": "Adult"
@@ -1277,7 +1219,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep380YhwachFinishesSong.png/revision/latest?cb=20230708202012&path-prefix=en",
-                "alt": "Haschwalth emerges alongside Yhwach and Ury\u016b."
+                "alt": "Haschwalth emerges alongside Yhwach and Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/ce/Ep381HakudanKeppeki.png/revision/latest?cb=20230715201316&path-prefix=en",
@@ -1293,7 +1235,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f0/565Haschwalth_explains.png/revision/latest?cb=20170903164806&path-prefix=en",
-                "alt": "Haschwalth explains Yhwach's soul-sharing powers to Ury\u016b."
+                "alt": "Haschwalth explains Yhwach's soul-sharing powers to Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/66/584Cross_appears.png/revision/latest?cb=20170905010303&path-prefix=en",
@@ -1301,7 +1243,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9e/610Haschwalth_explains.png/revision/latest?cb=20190501031318&path-prefix=en",
-                "alt": "Haschwalth explains The Almighty to Ury\u016b."
+                "alt": "Haschwalth explains The Almighty to Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9c/626Haschwalth_kneels.png/revision/latest?cb=20190505013442&path-prefix=en",
@@ -1321,31 +1263,31 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3d/659Haschwalth_confronts.png/revision/latest?cb=20190518055012&path-prefix=en",
-                "alt": "Haschwalth confronts Ury\u016b."
+                "alt": "Haschwalth confronts Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/18/660Haschwalth_appears.png/revision/latest?cb=20190518055334&path-prefix=en",
-                "alt": "Haschwalth appears before Ichigo and Ury\u016b."
+                "alt": "Haschwalth appears before Ichigo and Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/13/672Haschwalth_attacks.png/revision/latest?cb=20190522183259&path-prefix=en",
-                "alt": "Regaining his own powers, Haschwalth attacks Ury\u016b."
+                "alt": "Regaining his own powers, Haschwalth attacks Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/24/674Haschwalth_incapacitates.png/revision/latest?cb=20190522183827&path-prefix=en",
-                "alt": "Haschwalth stands over an incapacitated Ury\u016b."
+                "alt": "Haschwalth stands over an incapacitated Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/bb/679Uryu%27s_Schrift%2C_Antithesis.png/revision/latest?cb=20190523141016&path-prefix=en",
-                "alt": "Haschwalth receives all of Ury\u016b's wounds due to the latter's Antithesis."
+                "alt": "Haschwalth receives all of Uryū's wounds due to the latter's Antithesis."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/c3/680Haschwalth_is_struck.png/revision/latest?cb=20190523141247&path-prefix=en",
-                "alt": "Haschwalth is struck by the Ausw\u00e4hlen."
+                "alt": "Haschwalth is struck by the Auswählen."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4f/681Haschwalth_tells.png/revision/latest?cb=20190523141520&path-prefix=en",
-                "alt": "Haschwalth tells Ury\u016b to save his friends."
+                "alt": "Haschwalth tells Uryū to save his friends."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/87/679Haschwalth_prepares.png/revision/latest?cb=20190523141037&path-prefix=en",
@@ -1375,7 +1317,7 @@
         "quotes": [
             {
                 "quote": "Have you not noticed? Your fear is so great that rather than see this for the matter of life and death it is, you have subconsciously chosen to refer to it as a matter of 'passage'. A foolish notion. This war has already begun.",
-                "to": "Hidetomo Kaj\u014dmaru",
+                "to": "Hidetomo Kajōmaru",
                 "reference": "Bleach manga; Chapter 496, page 2"
             },
             {
@@ -1384,7 +1326,7 @@
                 "reference": "Bleach manga; Chapter 543, page 12"
             },
             {
-                "quote": "This is His Majesty's will. Announcing his successor in that way was certain to cause excessive unrest within the ranks. I cannot imagine His Majesty would fail to foresee this. In which case, there can only be one conclusion. This unrest was caused by His Majesty deliberately. Unrest forces people to keep a close eye on one another. And what is more, all of those eyes will be keenly focused upon Ury\u016b Ishida. No matter who that man may be, no matter what power he may possess, or what views he may hold, with this announcement, he is no longer able to take any action whatsoever. No path remains for that man now but to devote himself utterly to serving His Majesty. He has no other choice. Even if he sees through to His Majesty's true intentions, that will change nothing now.",
+                "quote": "This is His Majesty's will. Announcing his successor in that way was certain to cause excessive unrest within the ranks. I cannot imagine His Majesty would fail to foresee this. In which case, there can only be one conclusion. This unrest was caused by His Majesty deliberately. Unrest forces people to keep a close eye on one another. And what is more, all of those eyes will be keenly focused upon Uryū Ishida. No matter who that man may be, no matter what power he may possess, or what views he may hold, with this announcement, he is no longer able to take any action whatsoever. No path remains for that man now but to devote himself utterly to serving His Majesty. He has no other choice. Even if he sees through to His Majesty's true intentions, that will change nothing now.",
                 "to": "his attendant regarding Yhwach's announcement",
                 "reference": "Bleach manga; Chapter 544, pages 13-14"
             },
@@ -1395,7 +1337,7 @@
             },
             {
                 "quote": "It seems the scales of battle are evenly balanced at present. Were they not, there would be no reason for me to come here. My duty here is to tip those scales in our favor.",
-                "to": "Shunsui Ky\u014draku",
+                "to": "Shunsui Kyōraku",
                 "reference": "Bleach manga; Chapter 559, pages 1-2"
             },
             {
@@ -1415,71 +1357,72 @@
             },
             {
                 "quote": "His Majesty and I are two sides of a balanced scale. While His Majesty returns to being the Father of the Quincy, I take up the mask of the ruler in his stead. His Majesty and I are connected.",
-                "to": "Ury\u016b Ishida",
+                "to": "Uryū Ishida",
                 "reference": "Bleach manga; Chapter 565, page 11"
             },
             {
-                "quote": "What is that look in your eyes? Do you regret your actions? It is too late for that. I daresay you accepted our invitation in the hope of avenging your mother's death. But there is no longer any way for you to turn back. All who have been granted a piece of His Majesty's soul have their power absorbed by His Majesty upon their deaths. And what is more, in the earlier battle, His Majesty has already scattered fragments of his own soul across all of Seireitei. This battle is a battle for His Majesty. Not only we of the Sternritter, but also any Shinigami who have come into contact with His Majesty's soul will give up their own souls as offerings to His Majesty upon their deaths. No matter who perishes in this battle, it will only serve to bolster His Majesty's strength and to extend His Majesty\u2019s life. To His Majesty, battle is life itself. If he does not continue to absorb souls, eventually, he will return to the body he once had, unable to see, to hear, or even to move. His Majesty will never cease to do battle. There can be no escape. Both you and I must live for His Majesty and die for His Majesty.",
-                "to": "Ury\u016b Ishida",
+                "quote": "What is that look in your eyes? Do you regret your actions? It is too late for that. I daresay you accepted our invitation in the hope of avenging your mother's death. But there is no longer any way for you to turn back. All who have been granted a piece of His Majesty's soul have their power absorbed by His Majesty upon their deaths. And what is more, in the earlier battle, His Majesty has already scattered fragments of his own soul across all of Seireitei. This battle is a battle for His Majesty. Not only we of the Sternritter, but also any Shinigami who have come into contact with His Majesty's soul will give up their own souls as offerings to His Majesty upon their deaths. No matter who perishes in this battle, it will only serve to bolster His Majesty's strength and to extend His Majesty’s life. To His Majesty, battle is life itself. If he does not continue to absorb souls, eventually, he will return to the body he once had, unable to see, to hear, or even to move. His Majesty will never cease to do battle. There can be no escape. Both you and I must live for His Majesty and die for His Majesty.",
+                "to": "Uryū Ishida",
                 "reference": "Bleach manga; Chapter 565, pages 15-17"
             },
             {
                 "quote": "Every man walks atop the scales that measure him. All things that he encounters as he lives his life, he must place upon the scales of right and wrong as he goes. As he determines what he believes to be right and what wrong, those fragments of right and wrong are woven together into the shape of a man. That shape becomes the man himself.",
-                "to": "Ury\u016b Ishida",
+                "to": "Uryū Ishida",
                 "reference": "Bleach manga; Chapter 674, page 14"
             },
             {
                 "quote": "You said it yourself. You put everything you have on those scales of yours. Because if you merely followed others, while being lost and adrift yourself... without ever truly weighing your decisions and consequences...then you just may come to regret everything.",
-                "to": "Ury\u016b Ishida",
+                "to": "Uryū Ishida",
                 "reference": "Bleach manga; Chapter 681, page 7"
             },
             {
                 "quote": "Even if it doesn't alter or change the end result even in the slightest...making decisions based on convictions that you believe in...and walking your own path has its own merit and worth. There's something to be said for not having...even one regret.",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 681, page 9"
             }
         ]
     },
     {
-        "name": "Izumi Ishida",
+        "id": "izumi_ishida",
+        "name": {
+            "english": "Izumi Ishida",
+            "kanji": "石田 依澄",
+            "romaji": "Ishida Izumi"
+        },
+        "description": "Izumi Ishida in \"EVERYTHING BUT THE RAIN\"Lying does not befit a lady. Izumi Ishida (石田 依澄, Ishida Izumi) was an Echt Quincy as well as the wife of Sōken Ishida, the mother of Ryūken Ishida, and the grandmother of Uryū Ishida. Izumi was a black-haired woman with short hair. She wore a cardigan along with a inner-shirt and long skirt or a maxi dress. She had a scar on her lower calf of the left leg. Izumi was a stern woman, who took her responsibilities as matriarch of the Ishida family seriously.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/7/7f/Ep378IzumiProfile.png/revision/latest?cb=20221226210334&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "gender": "female",
+            "race": "Quincy",
+            "gender": "Female",
             "Professional Status": {
-                "affiliation": "quincy",
-                "previous occupation": "n/a",
-                "base of operations": "karakura townhuman world"
+                "affiliation": "Quincy",
+                "previous occupation": "N/A",
+                "base of operations": [
+                    "Karakura Town",
+                    "Human World"
+                ]
             },
             "Personal Status": {
-                "relatives": "ry\u016bken ishida (son)kanae katagiri (daughter-in-law, deceased)ury\u016b ishida (grandson)s\u014dken ishida (husband, deceased)"
+                "relatives": [
+                    "Ryūken Ishida",
+                    "Kanae Katagiri",
+                    "Uryū Ishida",
+                    "Sōken Ishida"
+                ]
             },
             "Primary Skills": {
-                "spirit weapon": "n/a"
+                "spirit weapon": "N/A"
             },
             "First Appearance": {
-                "manga": "chapter 530",
-                "anime": "episode 377"
+                "manga": "Chapter 530",
+                "anime": "Episode 377"
             },
             "Voices": {
-                "japanese": "rei igarashi",
-                "english": "karen strassman"
+                "japanese": "Rei Igarashi",
+                "english": "Karen Strassman"
             }
         },
-        "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/7/7f/Ep378IzumiProfile.png/revision/latest?cb=20221226210334&path-prefix=en",
-                "alt": ""
-            }
-        ],
+        "media": [],
         "quotes": [
             {
                 "quote": "Are you not fully aware of your position?! With the previous generation passed away and no siblings to your name you are the sole remaining member of the Kurosaki clan!! It is out of concern for a fellow Quincy that I have taken you in!!",
@@ -1494,50 +1437,69 @@
         ]
     },
     {
-        "name": "Ry\u016bken Ishida",
+        "id": "ryūken_ishida",
+        "name": {
+            "english": "Ryūken Ishida",
+            "kanji": "石田竜弦",
+            "romaji": "Ishida Ryūken"
+        },
+        "description": "Ryūken Ishida (石田竜弦, Ishida Ryūken) is an Echt Quincy who is the son of Sōken Ishida and father of Uryū Ishida. He is the Director of the Karakura Hospital and also known as 'The Last Quincy'; a title contested by his son. Ryūken Ishida is a middle-aged man of average height and appears quite fit for his age. He normally wears thin, frameless glasses and a plain grey suit with a light blue shirt and a tie adorned with Quincy crosses. He has narrow blue eyes, and is fair-skinned with white hair.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/c/c0/Ep345RyukenProfile.png/revision/latest?cb=20230113222244&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/d/d2/Ep377RyukenProfile2.png/revision/latest?cb=20221219215113&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "birthday": "march 14[1]",
-            "gender": "male",
-            "height": "178 cm (5'10\")[1]",
-            "weight": "68 kg (150 lbs)[1]",
-            "blood type": "ab[1]",
+            "race": "Quincy",
+            "birthday": "March 14",
+            "gender": "Male",
+            "height": "178 cm (5'10\")",
+            "weight": "68 kg (150 lbs)",
+            "blood type": "AB",
             "Professional Status": {
-                "affiliation": "karakura hospitalkarakura town",
-                "occupation": "director of the karakura hospital, doctor",
-                "base of operations": "ishida house, karakura hospital, karakura town, human world"
+                "affiliation": [
+                    "Karakura Hospital",
+                    "Karakura Town"
+                ],
+                "occupation": "Karakura Hospital",
+                "base of operations": [
+                    "Karakura Hospital",
+                    "Karakura Town",
+                    "Human World"
+                ]
             },
             "Personal Status": {
-                "relatives": "s\u014dken ishida (father, deceased) izumi ishida (mother, deceased) ury\u016b ishida (son) kanae katagiri (wife, deceased)",
-                "education": "doctorate"
+                "relatives": [
+                    "Sōken Ishida",
+                    "Izumi Ishida",
+                    "Uryū Ishida",
+                    "Kanae Katagiri"
+                ],
+                "education": "Doctorate"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen"
+                "spirit weapon": "Heilig Bogen"
             },
             "First Appearance": {
-                "manga": "volume 15, chapter 124(flashback) volume 21, chapter 186",
-                "anime": "episode 44 (flashback) episode 110",
-                "video game": "bleach: heat the soul 6"
+                "manga": [
+                    "Volume 15, Chapter 124",
+                    "Volume 21, Chapter 186"
+                ],
+                "anime": [
+                    "Episode 44",
+                    "Episode 110"
+                ],
+                "video game": "Bleach: Heat the Soul 6"
             },
             "Voices": {
-                "japanese": "ken narita",
-                "english": "michael mcconnohie (episode 44-345)christopher swindle (episode 369+)",
-                "spanish": "octavio rojas (latin)"
+                "japanese": "Ken Narita",
+                "english": [
+                    "Michael McConnohie",
+                    "Christopher Swindle"
+                ],
+                "spanish": "Octavio Rojas (Latin)"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/c0/Ep345RyukenProfile.png/revision/latest?cb=20230113222244&path-prefix=en",
                 "alt": "Adult"
@@ -1548,39 +1510,39 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/df/534Urahara_appears.png/revision/latest?cb=20170901024634&path-prefix=en",
-                "alt": "Isshin, Urahara, and Ry\u016bken meet for the first time."
+                "alt": "Isshin, Urahara, and Ryūken meet for the first time."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/6b/535Ryuken_demands.png/revision/latest?cb=20170901024924&path-prefix=en",
-                "alt": "Ry\u016bken demands Urahara to save Masaki."
+                "alt": "Ryūken demands Urahara to save Masaki."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9c/659Ryuken_cuts.png/revision/latest?cb=20190518054922&path-prefix=en",
-                "alt": "Ry\u016bken autopsies his dead wife."
+                "alt": "Ryūken autopsies his dead wife."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fc/Ep126UryuVsRyuken.png/revision/latest?cb=20230530051013&path-prefix=en",
-                "alt": "Ry\u016bken trains Ury\u016b to restore his son's Quincy powers."
+                "alt": "Ryūken trains Uryū to restore his son's Quincy powers."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/20/Ep143IsshinRyukenSmoking.png/revision/latest?cb=20230528195734&path-prefix=en",
-                "alt": "Isshin and Ry\u016bken discussing smoking."
+                "alt": "Isshin and Ryūken discussing smoking."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/34/Ep345Ry%C5%ABkenOffersRide.png/revision/latest?cb=20221226043209&path-prefix=en",
-                "alt": "Ry\u016bken offers to take Orihime home."
+                "alt": "Ryūken offers to take Orihime home."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/cf/Ep345Ry%C5%ABkenWarnsIchigo.png/revision/latest?cb=20221226043109&path-prefix=en",
-                "alt": "Ry\u016bken warns Ichigo not to pursue Tsukishima."
+                "alt": "Ryūken warns Ichigo not to pursue Tsukishima."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/26/674Isshin_and_Ryuken_arrive.png/revision/latest?cb=20190522183944&path-prefix=en",
-                "alt": "Ry\u016bken and Isshin arrive at Wahrwelt."
+                "alt": "Ryūken and Isshin arrive at Wahrwelt."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fa/Ep111RyukenQuincyCross2.png/revision/latest?cb=20230618060412&path-prefix=en",
-                "alt": "Ry\u016bken's Quincy Cross, in the form of a Pentacle."
+                "alt": "Ryūken's Quincy Cross, in the form of a Pentacle."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f4/682Still_Silver_Arrowhead.png/revision/latest?cb=20190523141900&path-prefix=en",
@@ -1588,156 +1550,177 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/80/682Ryuken%27s_Heilig_Bogen.png/revision/latest?cb=20190523141737&path-prefix=en",
-                "alt": "Ry\u016bken's newest bow."
+                "alt": "Ryūken's newest bow."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3b/Ep158QuincyEncyclopedia.png/revision/latest?cb=20230610000708&path-prefix=en",
-                "alt": "Ry\u016bken hosting the Quincy Encyclopedia."
+                "alt": "Ryūken hosting the Quincy Encyclopedia."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7f/BBSRyuken.png/revision/latest?cb=20201127204203&path-prefix=en",
-                "alt": "Promotional art of Ry\u016bken wielding his Heilig Bogen in Bleach: Brave Souls."
+                "alt": "Promotional art of Ryūken wielding his Heilig Bogen in Bleach: Brave Souls."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/07/BBSYoung_Ryuken.png/revision/latest?cb=20201201192828&path-prefix=en",
-                "alt": "Promotional art of a young Ry\u016bken wielding his Heilig Bogen."
+                "alt": "Promotional art of a young Ryūken wielding his Heilig Bogen."
             }
         ],
         "quotes": [
             {
                 "quote": "How many times do I have to tell you, there is no point in saving the dead. That's a Shinigami's job. You should learn how to save the people who are alive. I have no interest in it and you have no talent in it. The Quincy will become extinct with your grandfather's generation, understand?",
-                "to": "Ury\u016b Ishida",
+                "to": "Uryū Ishida",
                 "reference": "3.0 3.1 Bleach manga; Chapter 124, pages 6-7"
             },
             {
                 "quote": "Because you can't make a living from it.",
-                "to": "Ury\u016b Ishida, when asked why he hates being a Quincy",
+                "to": "Uryū Ishida, when asked why he hates being a Quincy",
                 "reference": "Bleach manga; Chapter 124, page 7"
             },
             {
                 "quote": "I have restored his Quincy powers. It is up to him whether they live or die. As well as whether he lives or dies.",
-                "to": "Isshin Kurosaki, about Ury\u016b",
+                "to": "Isshin Kurosaki, about Uryū",
                 "reference": "Bleach manga; Chapter 241, pages 11-12"
             }
         ]
     },
     {
-        "name": "S\u014dken Ishida",
+        "id": "sōken_ishida",
+        "name": {
+            "english": "Sōken Ishida",
+            "kanji": "石田 宗弦",
+            "romaji": "Ishida Sōken"
+        },
+        "description": "Sōken Ishida (石田 宗弦, Ishida Sōken) was an Echt Quincy as well as the father of Ryūken Ishida and the grandfather of Uryū Ishida. Sōken is an elderly man with gray hair, a gray mustache and glasses. His eyes were deep gray and he had a bit of a beard of his chin. His skin was wrinkled with age and he had pronounced cheekbones. He wears white Quincy clothes underneath a brown tunic. Sōken was a kind man whom Uryū admired.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/f/fc/Ep44S%C5%8DkenIshida.png/revision/latest?cb=20210410074533&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "march 22[1]",
-            "gender": "male",
-            "height": "160 cm (5'3\")[1]",
-            "weight": "52 kg (115 lbs)[1]",
+            "race": "Quincy",
+            "birthday": "March 22",
+            "gender": "Male",
+            "height": "160 cm (5'3\")",
+            "weight": "52 kg (115 lbs)",
             "Professional Status": {
-                "affiliation": "quincy",
-                "previous occupation": "n/a",
-                "base of operations": "karakura townhuman world"
+                "affiliation": "Quincy",
+                "previous occupation": "N/A",
+                "base of operations": [
+                    "Karakura Town",
+                    "Human World"
+                ]
             },
             "Personal Status": {
-                "relatives": "ry\u016bken ishida (son)[1]kanae katagiri (daughter-in-law, deceased)ury\u016b ishida (grandson)[1]izumi ishida (wife, deceased)"
+                "relatives": [
+                    "Ryūken Ishida",
+                    "Kanae Katagiri",
+                    "Uryū Ishida",
+                    "Izumi Ishida"
+                ]
             },
             "Primary Skills": {
-                "spirit weapon": "reishi bow"
+                "spirit weapon": "Reishi"
             },
             "First Appearance": {
-                "manga": "volume 6, chapter 44",
-                "anime": "episode 12"
+                "manga": "Volume 6, Chapter 44",
+                "anime": "Episode 12"
             },
             "Voices": {
-                "japanese": "eiji maruyama",
-                "english": "david lodgeliam o'brien"
+                "japanese": "Eiji Maruyama",
+                "english": [
+                    "David Lodge",
+                    "Liam O'Brien"
+                ]
             }
         },
         "media": [
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/f/fc/Ep44S%C5%8DkenIshida.png/revision/latest?cb=20210410074533&path-prefix=en",
-                "alt": ""
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/07/Ep87SokenGuidesUryu.png/revision/latest?cb=20201019090554&path-prefix=en",
-                "alt": "S\u014dken's Quincy Bow."
+                "alt": "Sōken's Quincy Bow."
             }
         ],
         "quotes": [
             {
                 "quote": "Be it Human or Shinigami, seeing a sad face is unbearable to me.",
-                "to": "Ury\u016b Ishida",
+                "to": "Uryū Ishida",
                 "reference": "Bleach manga; Chapter 46, page 12"
             },
             {
                 "quote": "A heart of vengeance forges the soul firm with resolve, but if one is not careful, vengeance can be blinded by obstinacy and pride, thereby dulling the blade.",
-                "to": "Ury\u016b Ishida",
+                "to": "Uryū Ishida",
                 "reference": "12.0 12.1 Bleach anime; Episode 103"
             },
             {
                 "quote": "The Quincy's arrows are released in the name of Justice. In other words, justice is when you have something that must be protected. There is nothing more difficult than the basics that I have just taught you. From there on, it depends on your heart. In the name of justice, Quincy release the arrows from their hearts.",
-                "to": "Ury\u016b Ishida",
+                "to": "Uryū Ishida",
                 "reference": "12.0 12.1 Bleach anime; Episode 103"
             }
         ]
     },
     {
-        "name": "Ury\u016b Ishida",
+        "id": "uryū_ishida",
+        "name": {
+            "english": "Uryū Ishida",
+            "kanji": "石田 雨竜, Ishida Uryū) is a Gemischt Quincy residing in Karakura Town. He is a doctor at Karakura Hospital, and a friend of Ichigo Kurosaki. He is a former member of the Wandenreich's Sternritter with the designation \"A\" - \"Antithesis\", formerly one of Yhwach's Schutzstaffel (親衛隊 (シュッツシュタッフェル), Shuttsushutafferu; German for \"Protective Echelon\"",
+            "romaji": "Japanese for \"Elite/Imperial Guards\""
+        },
+        "description": "Uryū Ishida (石田 雨竜, Ishida Uryū) is a Gemischt Quincy residing in Karakura Town. He is a doctor at Karakura Hospital, and a friend of Ichigo Kurosaki. He is a former member of the Wandenreich's Sternritter with the designation \"A\" - \"Antithesis\", formerly one of Yhwach's Schutzstaffel (親衛隊 (シュッツシュタッフェル), Shuttsushutafferu; German for \"Protective Echelon\", Japanese for \"Elite/Imperial Guards\"), and was once designated as his future successor.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/0/05/Ep344UryuProfile3.png/revision/latest?cb=20230125214916&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/1/15/269Uryu_alt.png/revision/latest?cb=20220703054056&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/0/02/Ep87ChildUryu.png/revision/latest?cb=20210415094855&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "birthday": "november 6[1]",
+            "race": "Quincy",
+            "birthday": "November 6",
             "age": "15 (2001)17 (2003)27 (2013)",
-            "gender": "male",
-            "height": "171 cm (5'7\u00bc\")[2] (prev) 177 cm (5'10\")[3]",
-            "weight": "55 kg (121 lbs.)[2] (prev) 57 kg (125 lbs.)[3]",
-            "blood type": "ab[1]",
+            "gender": "Male",
+            "height": "171 cm (5'7¼\")[2] (prev) 177 cm (5'10\")",
+            "weight": "55 kg (121 lbs.)[2] (prev) 57 kg (125 lbs.)",
+            "blood type": "AB",
             "Professional Status": {
-                "affiliation": "karakura hospital, karakura town",
-                "previous affiliation": "wandenreich",
-                "occupation": "doctor[4]",
-                "previous occupation": "yhwach's successor schutzstaffel high school student k.h. 25th student council president[3]",
-                "epithet": "\"a\"- \"antithesis\"[5]",
-                "team": "ichigo's groupsternritter (formerly)schutzstaffel (formerly)",
-                "base of operations": "karakura townsilbern, soul society (formerly)"
+                "affiliation": [
+                    "Karakura Hospital",
+                    "Karakura Town"
+                ],
+                "previous affiliation": "Wandenreich",
+                "occupation": "Doctor",
+                "previous occupation": "Yhwach",
+                "epithet": "\"A\"- \"Antithesis\"",
+                "team": "Sternritter",
+                "base of operations": [
+                    "Karakura Town",
+                    "Silbern",
+                    "Soul Society"
+                ]
             },
             "Personal Status": {
-                "relatives": "ry\u016bken ishida (father) kanae katagiri (mother, deceased) s\u014dken ishida (grandfather,deceased) izumi ishida (grandmother,deceased) ichigo kurosaki (second cousin) yuzu kurosaki (second cousin) karin kurosaki (second cousin)",
-                "education": "high school level, doctorate"
+                "relatives": [
+                    "Ryūken Ishida",
+                    "Kanae Katagiri",
+                    "Sōken Ishida",
+                    "Izumi Ishida",
+                    "Ichigo Kurosaki",
+                    "Yuzu Kurosaki",
+                    "Karin Kurosaki"
+                ],
+                "education": "High School Level, Doctorate"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen",
-                "signature skill": "situation reversal"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Situation Reversal"
             },
             "First Appearance": {
-                "manga": "volume 4, chapter 29",
-                "anime": "episode 7",
-                "video game": "bleach: heat the soul"
+                "manga": "Volume 4, Chapter 29",
+                "anime": "Episode 7",
+                "video game": "Bleach: Heat the Soul"
             },
             "Voices": {
-                "japanese": "noriaki sugiyamatakako honda (child)",
-                "english": "derek stephen prince",
-                "spanish": "\u00f3scar mu\u00f1oz (spain)v\u00edctor ugarte (latin)"
+                "japanese": [
+                    "Noriaki Sugiyama",
+                    "Takako Honda"
+                ],
+                "english": "Derek Stephen Prince",
+                "spanish": "Víctor Ugarte"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/05/Ep344UryuProfile3.png/revision/latest?cb=20230125214916&path-prefix=en",
                 "alt": "2003"
@@ -1752,179 +1735,179 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e8/537Uryu%27s_Wandenreich_outfit.png/revision/latest?cb=20170901030313&path-prefix=en",
-                "alt": "Ury\u016b's Wandenreich uniform."
+                "alt": "Uryū's Wandenreich uniform."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/71/Ep378KatagiriwithUryu.png/revision/latest?cb=20221227003221&path-prefix=en",
-                "alt": "A young Ury\u016b carried by his mother, Kanae Katagiri."
+                "alt": "A young Uryū carried by his mother, Kanae Katagiri."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9f/Ep11Ury%C5%ABKojaku.png/revision/latest?cb=20210325002336&path-prefix=en",
-                "alt": "Ury\u016b showing his Quincy powers to Ichigo."
+                "alt": "Uryū showing his Quincy powers to Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/33/Ep11UryuRepairsDoll.png/revision/latest?cb=20210325002638&path-prefix=en",
-                "alt": "Ury\u016b easily fixes a stuffed toy."
+                "alt": "Uryū easily fixes a stuffed toy."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/17/Ep11Reiraku3.png/revision/latest?cb=20210325002916&path-prefix=en",
-                "alt": "Ury\u016b grabbing Ichigo's red spirit thread."
+                "alt": "Uryū grabbing Ichigo's red spirit thread."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fe/Ep14IchigoArrivesAtCarnage.png/revision/latest?cb=20210326032713&path-prefix=en",
-                "alt": "Ury\u016b is confronted by Ichigo."
+                "alt": "Uryū is confronted by Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4a/Ep14BackToBack.png/revision/latest?cb=20210326033229&path-prefix=en",
-                "alt": "Ury\u016b and Ichigo stand back-to-back."
+                "alt": "Uryū and Ichigo stand back-to-back."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/59/Ep14IchigoEnlargesBow.png/revision/latest?cb=20210326035247&path-prefix=en",
-                "alt": "Ury\u016b's plan is put into motion."
+                "alt": "Uryū's plan is put into motion."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fd/Ep16Ury%C5%ABArrives.png/revision/latest?cb=20210327073555&path-prefix=en",
-                "alt": "Ury\u016b arrives to save Rukia."
+                "alt": "Uryū arrives to save Rukia."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2a/Ep18TryingToConvinceUryu.png/revision/latest?cb=20210328071802&path-prefix=en",
-                "alt": "Sado, Orihime, and Yoruichi try to recruit Ury\u016b."
+                "alt": "Sado, Orihime, and Yoruichi try to recruit Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e5/Ep21SadoSavesUry%C5%AB.png/revision/latest?cb=20210330094836&path-prefix=en",
-                "alt": "Ury\u016b is freed from the K\u014dry\u016b by Sado."
+                "alt": "Uryū is freed from the Kōryū by Sado."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/85/Ep24Ury%C5%ABUsingReish%C5%ABkaku.png/revision/latest?cb=20200317171434&path-prefix=en",
-                "alt": "Ury\u016b summons a narrow cannonball."
+                "alt": "Uryū summons a narrow cannonball."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/af/Ep29Ury%C5%ABAttacksJir%C5%8Db%C5%8D.png/revision/latest?cb=20210402011236&path-prefix=en",
-                "alt": "Ury\u016b confronts Jir\u014db\u014d Ikkanzaka."
+                "alt": "Uryū confronts Jirōbō Ikkanzaka."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/50/Ep43NemuSlashedWithUry%C5%AB.png/revision/latest?cb=20210410065915&path-prefix=en",
-                "alt": "Ury\u016b and Nemu are cut by Mayuri's Shikai."
+                "alt": "Uryū and Nemu are cut by Mayuri's Shikai."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2c/Ep44Ury%C5%ABBattlesKurotsuchi.png/revision/latest?cb=20210410075117&path-prefix=en",
-                "alt": "Ury\u016b facing Mayuri's Bankai."
+                "alt": "Uryū facing Mayuri's Bankai."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/0f/Ep44Ury%C5%ABTakesAntidote.png/revision/latest?cb=20210410075321&path-prefix=en",
-                "alt": "Nemu assisting Ury\u016b out of gratitude for sparing her father."
+                "alt": "Nemu assisting Uryū out of gratitude for sparing her father."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/35/Ep126UryuShot.png/revision/latest?cb=20230530053429&path-prefix=en",
-                "alt": "Ury\u016b is shot by Ry\u016bken's arrow in order to recover his powers."
+                "alt": "Uryū is shot by Ryūken's arrow in order to recover his powers."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep144UryuPursuesAisslinger.png/revision/latest?cb=20230528204057&path-prefix=en",
-                "alt": "Ury\u016b fights Aisslinger."
+                "alt": "Uryū fights Aisslinger."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/05/Ep156UryuVsCirucci.png/revision/latest?cb=20230625052025&path-prefix=en",
-                "alt": "Ury\u016b fighting Cirucci Sanderwicci."
+                "alt": "Uryū fighting Cirucci Sanderwicci."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep164Gint%C5%8D.png/revision/latest?cb=20230406032841&path-prefix=en",
-                "alt": "Ury\u016b activates Sprenger against Szayelaporro."
+                "alt": "Uryū activates Sprenger against Szayelaporro."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8e/Ep193TeatroDeTitere2.png/revision/latest?cb=20220409014245&path-prefix=en",
-                "alt": "Szayelaporro holding an Ury\u016b doll."
+                "alt": "Szayelaporro holding an Uryū doll."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/17/349Uryu_loses.png/revision/latest?cb=20220904133232&path-prefix=en",
-                "alt": "Ury\u016b having lost his left arm, a result of his fight with Ulquiorra Cifer."
+                "alt": "Uryū having lost his left arm, a result of his fight with Ulquiorra Cifer."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/36/352Uryu_Impaled.png/revision/latest?cb=20220904132855&path-prefix=en",
-                "alt": "Ury\u016b is stabbed by a Hollowfied Ichigo."
+                "alt": "Uryū is stabbed by a Hollowfied Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/b6/Obuta_beat_down.png/revision/latest?cb=20230125215850&path-prefix=en",
-                "alt": "Ury\u016b and Ichigo beat Obuta."
+                "alt": "Uryū and Ichigo beat Obuta."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3f/Ishida_Chases_a_stranger.png/revision/latest?cb=20230125215002&path-prefix=en",
-                "alt": "Ury\u016b chases an unknown stranger."
+                "alt": "Uryū chases an unknown stranger."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4b/Ep345UryuHospital.png/revision/latest?cb=20221225063408&path-prefix=en",
-                "alt": "Ury\u016b lies in his hospital bed."
+                "alt": "Uryū lies in his hospital bed."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e0/Ep354OrihimeHealsUyru.png/revision/latest?cb=20230201051034&path-prefix=en",
-                "alt": "Orihime heals Ury\u016b."
+                "alt": "Orihime heals Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/28/Ep360IchigoUryuDown.png/revision/latest?cb=20221006184054&path-prefix=en",
-                "alt": "Tsukishima cuts down Ury\u016b while K\u016bgo cuts down Ichigo."
+                "alt": "Tsukishima cuts down Uryū while Kūgo cuts down Ichigo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/25/Ep365IchigoUryuDiscuss.png/revision/latest?cb=20221211021327&path-prefix=en",
-                "alt": "Ury\u016b and Ichigo discussing their course of action."
+                "alt": "Uryū and Ichigo discussing their course of action."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/af/Ep365UryuWatchesIchigo.png/revision/latest?cb=20221211022335&path-prefix=en",
-                "alt": "Ury\u016b watches as Ichigo unleashes his Bankai."
+                "alt": "Uryū watches as Ichigo unleashes his Bankai."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/de/Ep367IchigoFriendsArrive.png/revision/latest?cb=20221010200257&path-prefix=en",
-                "alt": "Ichigo, Ury\u016b, Sado, and Orihime confront the Hollows."
+                "alt": "Ichigo, Uryū, Sado, and Orihime confront the Hollows."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f4/543Yhwach_bestows.png/revision/latest?cb=20170901164604&path-prefix=en",
-                "alt": "Yhwach speaks with Ury\u016b in his own private chambers."
+                "alt": "Yhwach speaks with Uryū in his own private chambers."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/8b/546Yhwach%2C_Haschwalth%2C_and_Uryu_watch.png/revision/latest?cb=20170901165601&path-prefix=en",
-                "alt": "Ury\u016b appearing in Soul Society with Yhwach and Haschwalth."
+                "alt": "Uryū appearing in Soul Society with Yhwach and Haschwalth."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/eb/619Uryu_arrives.png/revision/latest?cb=20190502003411&path-prefix=en",
-                "alt": "Ury\u016b arrives at the battle between Ichigo and Yhwach."
+                "alt": "Uryū arrives at the battle between Ichigo and Yhwach."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/55/620Uryu_moves.png/revision/latest?cb=20190502003709&path-prefix=en",
-                "alt": "Ury\u016b moves between his friends and Yhwach."
+                "alt": "Uryū moves between his friends and Yhwach."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3d/659Haschwalth_confronts.png/revision/latest?cb=20190518055012&path-prefix=en",
-                "alt": "Haschwalth confronts Ury\u016b."
+                "alt": "Haschwalth confronts Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/44/660Ichigo_attacks.png/revision/latest?cb=20190518055200&path-prefix=en",
-                "alt": "Ichigo attacks Ury\u016b."
+                "alt": "Ichigo attacks Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/c2/661Uryu_vs._Haschwalth.png/revision/latest?cb=20190518055509&path-prefix=en",
-                "alt": "Ury\u016b begins fighting Haschwalth."
+                "alt": "Uryū begins fighting Haschwalth."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/b5/672Uryu_limps.png/revision/latest?cb=20190522183240&path-prefix=en",
-                "alt": "Ury\u016b continues to engage Haschwalth despite his injuries."
+                "alt": "Uryū continues to engage Haschwalth despite his injuries."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/24/674Haschwalth_incapacitates.png/revision/latest?cb=20190522183827&path-prefix=en",
-                "alt": "Ury\u016b is incapacitated by Haschwalth."
+                "alt": "Uryū is incapacitated by Haschwalth."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/87/679Haschwalth_prepares.png/revision/latest?cb=20190523141037&path-prefix=en",
-                "alt": "Haschwalth prepares to kill Ury\u016b."
+                "alt": "Haschwalth prepares to kill Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/ba/682Uryu_receives.png/revision/latest?cb=20190523141811&path-prefix=en",
-                "alt": "Ury\u016b receives an arrowhead made of Still Silver from his father."
+                "alt": "Uryū receives an arrowhead made of Still Silver from his father."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/75/NBFHIchigo_chats.png/revision/latest?cb=20210809170427&path-prefix=en",
-                "alt": "Ury\u016b eats in the background of Keigo's ramen shop."
+                "alt": "Uryū eats in the background of Keigo's ramen shop."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/b5/Ep156UryuQuincyPentacle.png/revision/latest?cb=20230625051843&path-prefix=en",
-                "alt": "Ury\u016b's new pentacle shaped cross."
+                "alt": "Uryū's new pentacle shaped cross."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/1a/Ep157SeeleSchneider.png/revision/latest?cb=20230610002131&path-prefix=en",
@@ -1936,23 +1919,23 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/76/675Uryu%27s_Heilig_Bogen.png/revision/latest?cb=20190523140202&path-prefix=en",
-                "alt": "Ury\u016b's latest bow."
+                "alt": "Uryū's latest bow."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9f/Ep11Ury%C5%ABKojaku.png/revision/latest?cb=20210325002336&path-prefix=en",
-                "alt": "Ury\u016b firing arrows from his bow Kojaku."
+                "alt": "Uryū firing arrows from his bow Kojaku."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/20/Ep144UryuSpiritWeaponGinreiKojaku.png/revision/latest?cb=20230528205329&path-prefix=en",
-                "alt": "Ury\u016b's new bow, Ginrei Kojaku."
+                "alt": "Uryū's new bow, Ginrei Kojaku."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a8/Uryus_new_bow.png/revision/latest?cb=20221211021246&path-prefix=en",
-                "alt": "Ury\u016b displaying his new bow after firing at K\u016bgo."
+                "alt": "Uryū displaying his new bow after firing at Kūgo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9a/125Quincy_-_Letzt_Stil.png/revision/latest?cb=20200405130647&path-prefix=en",
-                "alt": "Ury\u016b using Quincy: Letzt Stil."
+                "alt": "Uryū using Quincy: Letzt Stil."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/d4/THVGeldschrank.png/revision/latest?cb=20190921030114&path-prefix=en",
@@ -1960,46 +1943,46 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a5/BBSTYBW_Uryu.png/revision/latest?cb=20230308190343&path-prefix=en",
-                "alt": "Promotional art of Ury\u016b during the Thousand Year Blood War in Bleach: Brave Souls."
+                "alt": "Promotional art of Uryū during the Thousand Year Blood War in Bleach: Brave Souls."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4d/BBSUryu_TYBW.png/revision/latest?cb=20200812090440&path-prefix=en",
-                "alt": "Promotional art of Ury\u016b wearing his Sternritter outfit and wielding the final version of his Heilig Bogen."
+                "alt": "Promotional art of Uryū wearing his Sternritter outfit and wielding the final version of his Heilig Bogen."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/49/BBSHueco_Mundo_Uryu.png/revision/latest?cb=20210131173259&path-prefix=en",
-                "alt": "Ury\u016b during his time in Hueco Mundo."
+                "alt": "Uryū during his time in Hueco Mundo."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/5a/BBSRepowered_Uryu.png/revision/latest?cb=20210506225529&path-prefix=en",
-                "alt": "Ury\u016b after regaining his Quincy powers."
+                "alt": "Uryū after regaining his Quincy powers."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/61/BBSLetzt_Stil_Uryu.png/revision/latest?cb=20210402044706&path-prefix=en",
-                "alt": "Ury\u016b using the Quincy: Letzt Stil."
+                "alt": "Uryū using the Quincy: Letzt Stil."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f9/BBSSAFWYUryu.png/revision/latest?cb=20210601022834&path-prefix=en",
-                "alt": "Ury\u016b as he appears in Bleach: Spirits Are Forever With You."
+                "alt": "Uryū as he appears in Bleach: Spirits Are Forever With You."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/94/BBSMaster_Uryu.png/revision/latest?cb=20220720230253&path-prefix=en",
-                "alt": "An alternate-universe Ury\u016b who has further mastered his Quincy powers."
+                "alt": "An alternate-universe Uryū who has further mastered his Quincy powers."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/76/Battle_Damaged_Ury%C5%AB2.png/revision/latest?cb=20100519085623&path-prefix=en",
-                "alt": "Ury\u016b's missing hand in the manga and injured arm in the anime, as a result of his fight with Ulquiorra Cifer."
+                "alt": "Uryū's missing hand in the manga and injured arm in the anime, as a result of his fight with Ulquiorra Cifer."
             }
         ],
         "quotes": [
             {
                 "quote": "You want an attack full of ",
-                "to": "Jir\u014db\u014d Ikkanzaka",
+                "to": "Jirōbō Ikkanzaka",
                 "reference": "Bleach manga; Chapter 91, pages 13-14"
             },
             {
                 "quote": "Sensei, I want to get stronger. I'll become a very strong Quincy and then protect everyone from Hollows. Then father will definitely agree with the way of the Quincy.",
-                "to": "S\u014dken Ishida",
+                "to": "Sōken Ishida",
                 "reference": "Bleach manga; Chapter 124, page 9"
             },
             {
@@ -2034,7 +2017,7 @@
             },
             {
                 "quote": "I am. That's why I'm ready to do battle with you!",
-                "to": "Ulquiorra Cifer regarding Ury\u016b being clear-headed",
+                "to": "Ulquiorra Cifer regarding Uryū being clear-headed",
                 "reference": "Bleach manga; Chapter 349, page 10"
             },
             {
@@ -2045,52 +2028,54 @@
         ]
     },
     {
-        "name": "Kanae Katagiri",
+        "id": "kanae_katagiri",
+        "name": {
+            "english": "Kanae Katagiri",
+            "kanji": "片桐 叶絵",
+            "romaji": "Katagiri Kanae"
+        },
+        "description": "Kanae Katagiri (片桐 叶絵, Katagiri Kanae) was a Gemischt Quincy and a former maid in the service of the Ishida family. She later became the wife of Ryūken Ishida and the mother of Uryū Ishida. Katagiri is a black-haired woman with a large hair bun. While in the service of the Ishida family, she wore an old-fashioned maid outfit. Several years after Uryū was born, she wore her hair down, and instead donned a white dress shirt and black bottom.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e5/Ep377KatagiriProfile.png/revision/latest?cb=20221219215423&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "june 10[1]",
-            "gender": "female",
-            "height": "162 cm[1]",
+            "race": "Quincy",
+            "birthday": "June 10",
+            "gender": "Female",
+            "height": "162 cm",
             "Professional Status": {
-                "affiliation": "ishida family",
-                "base of operations": "ishida housekarakura townhuman world"
+                "affiliation": "Ishida Family",
+                "base of operations": [
+                    "Karakura Town",
+                    "Human World"
+                ]
             },
             "Personal Status": {
-                "relatives": "ry\u016bken ishida (husband) ury\u016b ishida (son) s\u014dken ishida (father-in-law, deceased) izumi ishida (mother-in-law, deceased)"
+                "relatives": [
+                    "Ryūken Ishida",
+                    "Uryū Ishida",
+                    "Sōken Ishida",
+                    "Izumi Ishida"
+                ]
             },
             "Primary Skills": {
-                "spirit weapon": "reishi bow"
+                "spirit weapon": "Reishi Bow"
             },
             "First Appearance": {
-                "manga": "chapter 530",
-                "anime": "episode 377"
+                "manga": "Chapter 530",
+                "anime": "Episode 377"
             },
             "Voices": {
-                "japanese": "mamiko noto",
-                "english": "megan hollingshead"
+                "japanese": "Mamiko Noto",
+                "english": "Megan Hollingshead"
             }
         },
         "media": [
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e5/Ep377KatagiriProfile.png/revision/latest?cb=20221219215423&path-prefix=en",
-                "alt": ""
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/71/Ep378KatagiriwithUryu.png/revision/latest?cb=20221227003221&path-prefix=en",
-                "alt": "Katagiri with a young Ury\u016b."
+                "alt": "Katagiri with a young Uryū."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/c9/536Katagiri_meets_Ryuken.png/revision/latest?cb=20170901025519&path-prefix=en",
-                "alt": "Katagiri and Ry\u016bken meet for the first time."
+                "alt": "Katagiri and Ryūken meet for the first time."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/86/Ep71Ury%C5%ABsMother.png/revision/latest?cb=20210415051041&path-prefix=en",
@@ -2099,55 +2084,64 @@
         ],
         "quotes": [
             {
-                "quote": "Ry\u016bken-sama. Have you forgotten? It is my sworn duty to dedicate my entire life to serving you. From the day we first set eyes on one another, my life has belonged to you. So, please... Please... do not be sad. If you feel sorrow, Ry\u016bken-sama, my heart will be torn apart.",
-                "to": "Ry\u016bken Ishida",
+                "quote": "Ryūken-sama. Have you forgotten? It is my sworn duty to dedicate my entire life to serving you. From the day we first set eyes on one another, my life has belonged to you. So, please... Please... do not be sad. If you feel sorrow, Ryūken-sama, my heart will be torn apart.",
+                "to": "Ryūken Ishida",
                 "reference": "Bleach manga; Chapter 536, pages 8-9"
             }
         ]
     },
     {
-        "name": "Masaki Kurosaki",
+        "id": "masaki_kurosaki",
+        "name": {
+            "english": "Masaki Kurosaki",
+            "kanji": "黒崎 真咲",
+            "romaji": "Kurosaki Masaki"
+        },
+        "description": "Masaki Kurosaki (黒崎 真咲, Kurosaki Masaki) was an Echt Quincy, the wife of Isshin Kurosaki, and mother of Ichigo Kurosaki, Karin Kurosaki, and Yuzu Kurosaki. She was the last surviving member of her family, and was taken in by the Ishida family before an incident with a Hollow led her to live a life with Isshin. Masaki was a woman of average height.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/a/a6/Ep178MasakiProfile.png/revision/latest?cb=20190202165651&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/c/cc/Ep377MasakiProfile2.png/revision/latest?cb=20221219215020&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "birthday": "june 9[1]",
-            "gender": "female",
+            "race": "Quincy",
+            "birthday": "June 9",
+            "gender": "Female",
             "Professional Status": {
-                "affiliation": "kurosaki family, ishida family",
-                "occupation": "homemaker",
-                "base of operations": "kurosaki clinic karakura townishida house (formerly)"
+                "affiliation": "Kurosaki Family",
+                "occupation": "Homemaker",
+                "base of operations": [
+                    "Kurosaki Clinic",
+                    "Karakura Town"
+                ]
             },
             "Personal Status": {
-                "relatives": "isshin kurosaki (husband) ichigo kurosaki (son) karin kurosaki (daughter) yuzu kurosaki (daughter)",
-                "education": "high school university"
+                "relatives": [
+                    "Isshin Kurosaki",
+                    "Ichigo Kurosaki",
+                    "Karin Kurosaki",
+                    "Yuzu Kurosaki"
+                ],
+                "education": "High School University"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen",
-                "signature skill": "blut"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Blut"
             },
             "First Appearance": {
-                "manga": "volume 1, chapter 1",
-                "anime": "episode 1",
-                "video game": "bleach: brave souls"
+                "manga": "Volume 1, Chapter 1",
+                "anime": "Episode 1",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "sayaka ohara",
-                "english": "ellyn stern cherami leigh (young)",
-                "spanish": "alicia laorden (spain)"
+                "japanese": "Sayaka Ohara",
+                "english": [
+                    "Ellyn Stern",
+                    "Cherami Leigh"
+                ],
+                "spanish": "Alicia Laorden (Spain)"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a6/Ep178MasakiProfile.png/revision/latest?cb=20190202165651&path-prefix=en",
                 "alt": "Adult"
@@ -2196,51 +2190,48 @@
         "quotes": [
             {
                 "quote": "I understand how you're always thinking about your mother and the Quincy as a whole. Always considering what's best for the future, taking into account all the consequences of your actions. And I honestly admire the way you're able to do that. But you see, I'm not you, Ryuu-chan. To me, ",
-                "to": "Ry\u016bken Ishida",
+                "to": "Ryūken Ishida",
                 "reference": "Bleach manga; Chapter 531, page 13"
             }
         ]
     },
     {
-        "name": "Liltotto Lamperd",
+        "id": "liltotto_lamperd",
+        "name": {
+            "english": "Liltotto Lamperd",
+            "kanji": "リルトット・ランパード",
+            "romaji": "Rirutotto Ranpādo"
+        },
+        "description": "Liltotto Lamperd (リルトット・ランパード, Rirutotto Ranpādo) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"G\" - \"The Glutton\". Liltotto is a petite young girl with chin-length blonde hair and purple eyes.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/6/62/580Liltotto_profile.png/revision/latest?cb=20170904015151&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "september 16[1]",
-            "gender": "female",
-            "height": "149 cm (4'11\")[1]",
+            "race": "Quincy",
+            "birthday": "September 16",
+            "gender": "Female",
+            "height": "149 cm (4'11\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"g\"[2]- \"the glutton\"[3]",
-                "previous team": "sternritter bambie's",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"G\"[2]- \"The Glutton\"",
+                "previous team": [
+                    "Sternritter",
+                    "Bambie's"
+                ],
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen",
-                "signature skill": "consumption"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Consumption"
             },
             "First Appearance": {
-                "manga": "chapter 544",
-                "anime": "episode 380"
+                "manga": "Chapter 544",
+                "anime": "Episode 380"
             },
             "Voices": {
-                "japanese": "aoi y\u016bki",
-                "english": "cherami leigh"
+                "japanese": "Aoi Yūki",
+                "english": "Cherami Leigh"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/6/62/580Liltotto_profile.png/revision/latest?cb=20170904015151&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e2/558Candice%2C_Liltotto%2C_Giselle%2C_and_Meninas_stand.png/revision/latest?cb=20170902181156&path-prefix=en",
                 "alt": "Liltotto and the group approach Bambietta."
@@ -2279,47 +2270,41 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/14/597Liltotto%27s_Vollstandig.png/revision/latest?cb=20190430012610&path-prefix=en",
-                "alt": "Liltotto activating her Quincy: Vollst\u00e4ndig."
+                "alt": "Liltotto activating her Quincy: Vollständig."
             }
         ]
     },
     {
-        "name": "Guenael Lee",
+        "id": "guenael_lee",
+        "name": {
+            "english": "Guenael Lee",
+            "kanji": "グエナエル・リー",
+            "romaji": "Guenaeru Rī"
+        },
+        "description": "Guenael Lee (グエナエル・リー, Guenaeru Rī) is a creation of Gremmy Thoumeaux's The Visionary ability, originally thought to be a member of the Wandenreich's Sternritter with the designation \"V - Vanishing Point\". Guenael is a short, elderly-looking man who has big, pink hair. His lips do not fully close, exposing large teeth. His legs appear to be disproportionately short to his torso. He wears glasses and has a lazy right eye. He wears a head adornment which is attached to four points on his face.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/a/a0/570Guenael_profile.png/revision/latest?cb=20170903170032&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "gender": "male",
+            "race": "Quincy",
+            "gender": "Male",
             "Professional Status": {
-                "affiliation": "wandenreich",
-                "epithet": "\"v\" - \"vanishing point\"",
-                "team": "sternritter[1]",
-                "base of operations": "silbern"
+                "affiliation": "Wandenreich",
+                "epithet": "\"V\" - \"Vanishing Point\"",
+                "team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Personal Status": {
-                "relatives": "gremmy thoumeaux (creator)"
+                "relatives": "Gremmy Thoumeaux"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi dagger",
-                "signature skill": "imperceptibility"
+                "spirit weapon": "Reishi Dagger",
+                "signature skill": "Imperceptibility"
             },
             "First Appearance": {
-                "manga": "chapter 570",
-                "anime": "episode 385"
+                "manga": "Chapter 570",
+                "anime": "Episode 385"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/a/a0/570Guenael_profile.png/revision/latest?cb=20170903170032&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/5/56/570Guenael_appears.png/revision/latest?cb=20170903170018&path-prefix=en",
                 "alt": "Guenael appears behind Isane."
@@ -2335,54 +2320,52 @@
         ],
         "quotes": [
             {
-                "quote": "I don\u2019t know how many times I\u2019m going to have to say this before we\u2019re done... but let me just say, it\u2019s a pleasure to make your acquaintance. I am Sternritter \u201cV\u201d... Guenael Lee the \u201cVanishing Point\u201d. And I\u2019m afraid... you will not be able... to see... feel... or even... remember... my existence.",
+                "quote": "I don’t know how many times I’m going to have to say this before we’re done... but let me just say, it’s a pleasure to make your acquaintance. I am Sternritter “V”... Guenael Lee the “Vanishing Point”. And I’m afraid... you will not be able... to see... feel... or even... remember... my existence.",
                 "to": "Yachiru Kusajishi and Isane Kotetsu",
                 "reference": "Bleach manga; Chapter 571, pages 3-4"
             },
             {
-                "quote": "The heck is that?! You call that a reason?! That\u2019s not a reason!! I see... It\u2019s instinct... Her instincts drove her to attack me... My attacks up until now, though gone from her conscious memory, must have left a mark on her instincts... Come to think of it, the color of her hair is rather more wild than befits a young lady... And there\u2019s an untamed look to her face, like a savage monkey... What a beast of a girl! I must finish this hunt before she truly awakens her animal instincts!",
+                "quote": "The heck is that?! You call that a reason?! That’s not a reason!! I see... It’s instinct... Her instincts drove her to attack me... My attacks up until now, though gone from her conscious memory, must have left a mark on her instincts... Come to think of it, the color of her hair is rather more wild than befits a young lady... And there’s an untamed look to her face, like a savage monkey... What a beast of a girl! I must finish this hunt before she truly awakens her animal instincts!",
                 "to": "About Yachiru Kusajishi",
                 "reference": "Bleach manga; Chapter 571, page 11"
             }
         ]
     },
     {
-        "name": "Loyd Lloyd",
+        "id": "loyd_lloyd",
+        "name": {
+            "english": "Loyd Lloyd",
+            "kanji": "\"Lの\" ロイド・ロイド",
+            "romaji": "Eru no Roido Roido"
+        },
+        "description": "Loyd Lloyd (\"Lの\" ロイド・ロイド, Eru no Roido Roido) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"Y\" - \"The Yourself\". He is the older identical twin brother of Royd Lloyd. Loyd is a tall and rather slender individual. His head is completely bald, and features a third eye at the center of his forehead. Each of his ears is encased by a circular, headphone-like covering which is surrounded by a dark-colored trim.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/0/0a/Ep371LoydProfile.png/revision/latest?cb=20221107181619&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/f/f9/510Young_Loyd.png/revision/latest?cb=20221119054649&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "birthday": "april 28th",
-            "gender": "male",
+            "race": "Quincy",
+            "birthday": "April 28th",
+            "gender": "Male",
             "height": "170 cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"y\" - \"the yourself\"[1]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"Y\" - \"The Yourself\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Personal Status": {
-                "relatives": "royd lloyd (younger twin brother)"
+                "relatives": "Royd Lloyd"
             },
             "Primary Skills": {
-                "signature skill": "appearance andpower replication"
+                "signature skill": "Appearance andPower Replication"
             },
             "First Appearance": {
-                "manga": "chapter 502",
-                "anime": "episode 371"
+                "manga": "Chapter 502",
+                "anime": "Episode 371"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/0a/Ep371LoydProfile.png/revision/latest?cb=20221107181619&path-prefix=en",
                 "alt": "2003"
@@ -2402,47 +2385,51 @@
         ]
     },
     {
-        "name": "Royd Lloyd",
+        "id": "royd_lloyd",
+        "name": {
+            "english": "Royd Lloyd",
+            "kanji": "\"Rの\" ロイド・ロイド",
+            "romaji": "Aru no Roido Roido"
+        },
+        "description": "Royd Lloyd in \"THE FIRE\"You say...I have...done...well? It is...an...honor... Royd Lloyd (\"Rの\" ロイド・ロイド, Aru no Roido Roido) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"Y\" - \"The Yourself\". He is the younger identical twin brother of Loyd Lloyd. Royd is a tall and rather slender individual, whose head is completely bald and features a third eye at the center of his forehead.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/0/0e/510Royd_profile.png/revision/latest?cb=20170830214925&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/b/bd/510Young_Royd.png/revision/latest?cb=20221119054715&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "birthday": "april 28th",
-            "gender": "male",
+            "race": "Quincy",
+            "birthday": "April 28th",
+            "gender": "Male",
             "height": "170 cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"y\" - \"the yourself\"[1]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"Y\" - \"The Yourself\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Personal Status": {
-                "relatives": "loyd lloyd (older twin brother)"
+                "relatives": "Loyd Lloyd"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi sword",
-                "signature skill": "appearance/personality &memory replication"
+                "spirit weapon": "Reishi Sword",
+                "signature skill": "Appearance/Personality &Memory Replication"
             },
             "First Appearance": {
-                "manga": "chapter 497",
-                "anime": "episode 372"
+                "manga": "Chapter 497",
+                "anime": "Episode 372"
             },
             "Voices": {
-                "japanese": "y\u016bsuke kobayashitakayuki sug\u014d (impersonating yhwach)",
-                "english": "robbie daymondrichard epcar (impersonating yhwach)"
+                "japanese": [
+                    "Yūsuke Kobayashi",
+                    "Takayuki Sugō"
+                ],
+                "english": [
+                    "Robbie Daymond",
+                    "Richard Epcar"
+                ]
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/0e/510Royd_profile.png/revision/latest?cb=20170830214925&path-prefix=en",
                 "alt": "2003"
@@ -2492,50 +2479,44 @@
             },
             {
                 "quote": "only",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "13 BLADEs., page 255"
             }
         ]
     },
     {
-        "name": "Mask De Masculine",
+        "id": "mask_de_masculine",
+        "name": {
+            "english": "Mask De Masculine",
+            "kanji": "マスク・ド・マスキュリン",
+            "romaji": "Masuku Do Masukyurin"
+        },
+        "description": "Mask De Masculine (マスク・ド・マスキュリン, Masuku Do Masukyurin) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"S\" - \"The Superstar\". Mask has a very large, muscular build. He wears the standard Sternritter uniform, with the addition of a yellow and red-orange luchador mask covering most of his head and face, leaving his chin and nose exposed. His mask has a star pattern on the forehead and thick markings around his eyes, nose and cheeks. His boots and gloves are red.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/9/97/Ep371MaskProfile.png/revision/latest?cb=20221107200411&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "october 20th[1]",
-            "gender": "male",
-            "height": "200 cm (6'7\")[1]",
+            "race": "Quincy",
+            "birthday": "October 20th",
+            "gender": "Male",
+            "height": "200 cm (6'7\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"s\" - \"the superstar\"[2]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"S\" - \"The Superstar\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "signature skill": "cheer-inducedempowerment"
+                "signature skill": "Cheer-InducedEmpowerment"
             },
             "First Appearance": {
-                "manga": "chapter 495",
-                "anime": "episode 370"
+                "manga": "Chapter 495",
+                "anime": "Episode 370"
             },
             "Voices": {
-                "japanese": "yasuhiro mamiya",
-                "english": "bill butts"
+                "japanese": "Yasuhiro Mamiya",
+                "english": "Bill Butts"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/9/97/Ep371MaskProfile.png/revision/latest?cb=20221107200411&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/29/495Mask_attacks.png/revision/latest?cb=20170827205326&path-prefix=en",
                 "alt": "Mask ambushes Renji Abarai."
@@ -2554,7 +2535,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/68/Ep384RenjiIncineratesMask.png/revision/latest?cb=20230805203728&path-prefix=en",
-                "alt": "Renji incinerates Mask with S\u014d\u014d Zabimaru, Zaga Tepp\u014d."
+                "alt": "Renji incinerates Mask with Sōō Zabimaru, Zaga Teppō."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/6c/563Mask%27s_empowered_form.png/revision/latest?cb=20170903163936&path-prefix=en",
@@ -2562,7 +2543,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f9/Ep384MaskVollstandig.png/revision/latest?cb=20230806024007&path-prefix=en",
-                "alt": "Mask's Quincy: Vollst\u00e4ndig."
+                "alt": "Mask's Quincy: Vollständig."
             }
         ],
         "quotes": [
@@ -2573,12 +2554,12 @@
             },
             {
                 "quote": "The cheers of my fans are all the strength I need!",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 560, page 17"
             },
             {
                 "quote": "You fiend! Only a coward would harm an innocent fan!",
-                "to": "R\u014dj\u016br\u014d \u014ctoribashi after he bifurcates James",
+                "to": "Rōjūrō Ōtoribashi after he bifurcates James",
                 "reference": "Bleach manga; Chapter 561, page 8"
             },
             {
@@ -2624,45 +2605,45 @@
         ]
     },
     {
-        "name": "Meninas McAllon",
+        "id": "meninas_mcallon",
+        "name": {
+            "english": "Meninas McAllon",
+            "kanji": "ミニーニャ・マカロン",
+            "romaji": "Minīnya Makaron"
+        },
+        "description": "Meninas McAllon (ミニーニャ・マカロン, Minīnya Makaron) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"P\" - \"The Power\". Meninas is a tall and well-endowed girl of slender build. She is light-skinned with long wavy pink hair and short bangs that frame her forehead and green eyes.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/2/28/544Meninas_profile.png/revision/latest?cb=20170901164810&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "march 9[1]",
-            "gender": "female",
-            "height": "191 cm (6'3\u00bd\")[1]",
+            "race": "Quincy",
+            "birthday": "March 9",
+            "gender": "Female",
+            "height": "191 cm (6'3½\")",
             "Professional Status": {
-                "affiliation": "wandenreich",
-                "epithet": "\"p\"[2]- \"the power\"[3]",
-                "team": "sternritter bambie's",
-                "base of operations": "silbern"
+                "affiliation": "Wandenreich",
+                "epithet": "\"P\"[2]- \"The Power\"",
+                "team": [
+                    "Sternritter",
+                    "Bambie's"
+                ],
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen",
-                "signature skill": "superhuman strength"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Superhuman Strength"
             },
             "First Appearance": {
-                "manga": "chapter 502 (voice)chapter 544",
-                "anime": "episode 371"
+                "manga": [
+                    "Chapter 502",
+                    "Chapter 544"
+                ],
+                "anime": "Episode 371"
             },
             "Voices": {
-                "japanese": "reina ueda[4]",
-                "english": "anne yatco"
+                "japanese": "Reina Ueda",
+                "english": "Anne Yatco"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/2/28/544Meninas_profile.png/revision/latest?cb=20170901164810&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7c/Ep373MeninasShadow.png/revision/latest?cb=20221121210205&path-prefix=en",
                 "alt": "Meninas bids Rukia Kuchiki farewell as she enters a Shadow."
@@ -2697,7 +2678,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/80/586Meninas%27s_Vollstandig.png/revision/latest?cb=20170908194706&path-prefix=en",
-                "alt": "Meninas activating her Quincy: Vollst\u00e4ndig."
+                "alt": "Meninas activating her Quincy: Vollständig."
             }
         ],
         "quotes": [
@@ -2709,45 +2690,39 @@
         ]
     },
     {
-        "name": "NaNaNa Najahkoop",
+        "id": "nanana_najahkoop",
+        "name": {
+            "english": "NaNaNa Najahkoop",
+            "kanji": "ナナナ・ナジャークープ",
+            "romaji": "NaNaNa Najākūpu"
+        },
+        "description": "NaNaNa Najahkoop in \"MARCH OF THE STARCROSS\"Sorry, man. I don't get any of this art stuff. But don't worry. You and that V-whatever of yours won't ever find the time to cry. 'Cause in five minutes' time, you're gonna be dead. NaNaNa Najahkoop (ナナナ・ナジャークープ, NaNaNa Najākūpu) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"U\" - The Underbelly.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/1/14/Ep370NaNaNaProfile.png/revision/latest?cb=20221031202510&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "february 27th",
-            "gender": "male",
-            "height": "192 cm (6'3\u2157\")",
+            "race": "Quincy",
+            "birthday": "February 27th",
+            "gender": "Male",
+            "height": "192 cm (6'3⅗\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"u\" - \"the underbelly\"[1][2]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"U\" - \"The Underbelly\"[1]",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "signature skill": "reiatsu weakness detection & paralysis inducement"
+                "signature skill": "Reiatsu Weakness Detection & Paralysis Inducement"
             },
             "First Appearance": {
-                "manga": "chapter 495",
-                "anime": "episode 370",
-                "video game": "bleach: brave souls"
+                "manga": "Chapter 495",
+                "anime": "Episode 370",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "tomoaki maeno",
-                "english": "zeno robinson"
+                "japanese": "Tomoaki Maeno",
+                "english": "Zeno Robinson"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/1/14/Ep370NaNaNaProfile.png/revision/latest?cb=20221031202510&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/6b/495Rose_tells.png/revision/latest?cb=20170827204920&path-prefix=en",
                 "alt": "Rose threatens to kill NaNaNa."
@@ -2772,7 +2747,7 @@
         "quotes": [
             {
                 "quote": "Sorry, man. I don't get any of this art stuff. But don't worry. You and that V-whatever of yours won't ever find the time to cry. 'Cause in five minutes' time, you're gonna be dead.",
-                "to": "R\u014dj\u016br\u014d \u014ctoribashi",
+                "to": "Rōjūrō Ōtoribashi",
                 "reference": "Bleach manga; Chapter 495, pages 4-5"
             },
             {
@@ -2783,46 +2758,40 @@
         ]
     },
     {
-        "name": "Askin Nakk Le Vaar",
+        "id": "askin_nakk_le_vaar",
+        "name": {
+            "english": "Askin Nakk Le Vaar",
+            "kanji": "アスキン・ナックルヴァール, Asukin Nakkuruvāru) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"D\" - \"The Deathdealing\", as well as one of Yhwach's Schutzstaffel (親衛隊 (シュッツシュタッフェル), Shuttsushutafferu; German for \"Protective Echelon\"",
+            "romaji": "Japanese for \"Elite/Imperial Guards\""
+        },
+        "description": "Askin Nakk Le Vaar (アスキン・ナックルヴァール, Asukin Nakkuruvāru) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"D\" - \"The Deathdealing\", as well as one of Yhwach's Schutzstaffel (親衛隊 (シュッツシュタッフェル), Shuttsushutafferu; German for \"Protective Echelon\", Japanese for \"Elite/Imperial Guards\"). Askin has medium length black hair with white streaks, with a strand hanging down in front of his face, reaching his mouth.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/c/c8/Ep380AskinProfile.png/revision/latest?cb=20230708202536&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "june 6",
-            "gender": "male",
+            "race": "Quincy",
+            "birthday": "June 6",
+            "gender": "Male",
             "height": "187 cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"d\" - \"the deathdealing\"[1]",
-                "previous team": "sternritter, schutzstaffel",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"D\" - \"The Deathdealing\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen",
-                "signature skill": "lethal dose control"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Lethal Dose Control"
             },
             "First Appearance": {
-                "manga": "chapter 494",
-                "anime": "episode 369",
-                "video game": "bleach: brave souls"
+                "manga": "Chapter 494",
+                "anime": "Episode 369",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "shunsuke takeuchi",
-                "english": "daman mills"
+                "japanese": "Shunsuke Takeuchi",
+                "english": "Daman Mills"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/c/c8/Ep380AskinProfile.png/revision/latest?cb=20230708202536&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f3/543Askin_explains.png/revision/latest?cb=20170901164438&path-prefix=en",
                 "alt": "Askin explains why he stopped the fight."
@@ -2857,11 +2826,11 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3d/657Askin_survives.png/revision/latest?cb=20190518054406&path-prefix=en",
-                "alt": "Askin survives Y\u016bshir\u014d's attack."
+                "alt": "Askin survives Yūshirō's attack."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7e/658Yushiro_is_impaled.png/revision/latest?cb=20190518054520&path-prefix=en",
-                "alt": "Askin shoots Y\u016bshir\u014d with three arrows."
+                "alt": "Askin shoots Yūshirō with three arrows."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/6a/662Askin_taunts.png/revision/latest?cb=20190518055732&path-prefix=en",
@@ -2893,7 +2862,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/6/65/663Askin%27s_Vollstandig%2C_Hasshein.png/revision/latest?cb=20190518060248&path-prefix=en",
-                "alt": "Askin's Quincy: Vollst\u00e4ndig, Hasshein."
+                "alt": "Askin's Quincy: Vollständig, Hasshein."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/BBSAskin.png/revision/latest?cb=20200808065138&path-prefix=en",
@@ -2922,13 +2891,13 @@
                 "reference": "Bleach manga; Chapter 575, page 4"
             },
             {
-                "quote": "The reason His Majesty took me in was quite simple. It\u2019s because I just wouldn\u2019t die. A bit of a pathetic ability, right...? I hate it, myself. Just thinking about this ability of mine makes me feel so fatally irritated.",
-                "to": "\u014cetsu Nimaiya",
+                "quote": "The reason His Majesty took me in was quite simple. It’s because I just wouldn’t die. A bit of a pathetic ability, right...? I hate it, myself. Just thinking about this ability of mine makes me feel so fatally irritated.",
+                "to": "Ōetsu Nimaiya",
                 "reference": "Bleach manga; Chapter 601, page 18"
             },
             {
                 "quote": "You took me lightly, didn't you? The way I speak, the way I act... I seem like a worthless underling, even I know it. But you know, I don't think I really mind. It used to bug me something awful, but lately, I've come around to thinking that it's actually one of my good points. That's what I tell myself, anyway. Think I'm gloomy, do ya? Well, that's just what's so fatal about me.",
-                "to": "\u014cetsu Nimaiya",
+                "to": "Ōetsu Nimaiya",
                 "reference": "75.0 75.1 Bleach manga; Chapter 602, page 7"
             },
             {
@@ -2938,26 +2907,26 @@
             },
             {
                 "quote": "Haven't you ever heard of a thing called delicacy? It's about defeating my enemies in my own style. My style of fighting is to rely entirely upon lethal doses. Walking up and strangling people sounds like a job better left to ladies like yourself and Bambi.",
-                "to": "Yoruichi Shih\u014din",
+                "to": "Yoruichi Shihōin",
                 "reference": "Bleach manga; Chapter 656, pages 10-11"
             },
             {
                 "quote": "I won't deny that both you and Bambi are attractive... But a woman's worth isn't in her face... It's in her fashion sense!",
-                "to": "Yoruichi Shih\u014din",
+                "to": "Yoruichi Shihōin",
                 "reference": "Bleach manga; Chapter 656, page 13"
             },
             {
                 "quote": "Oh? You looking for a fight, little lady? Just to warn you, even if you're unarmed, I'll still use my bow.",
-                "to": "Y\u016bshir\u014d Shih\u014din",
+                "to": "Yūshirō Shihōin",
                 "reference": "Bleach manga; Chapter 657, page 12"
             },
             {
-                "quote": "Hold it! You're probably thinking you can beat my strategy by making her Reiatsu change itself even further, but that's no use. I wouldn't want you to go to all that trouble for nothing, so I'm gonna be nice and tell you about my Vollst\u00e4ndig's ability.",
+                "quote": "Hold it! You're probably thinking you can beat my strategy by making her Reiatsu change itself even further, but that's no use. I wouldn't want you to go to all that trouble for nothing, so I'm gonna be nice and tell you about my Vollständig's ability.",
                 "to": "Kisuke Urahara",
                 "reference": "Bleach manga; Chapter 664, page 2"
             },
             {
-                "quote": "Now look, I'm not a fan of all this shit-talking stuff. Saying harsh things all the time just give the impression you\u2019re not confident, y'know? And I prefer to stay as calm and collected as can be.",
+                "quote": "Now look, I'm not a fan of all this shit-talking stuff. Saying harsh things all the time just give the impression you’re not confident, y'know? And I prefer to stay as calm and collected as can be.",
                 "to": "Kisuke Urahara",
                 "reference": "Bleach manga; Chapter 664, page 7"
             },
@@ -2974,93 +2943,87 @@
         ]
     },
     {
-        "name": "\u00c4s N\u00f6dt",
+        "id": "äs_nödt",
+        "name": {
+            "english": "Äs Nödt",
+            "kanji": "エス・ノト",
+            "romaji": "Esu Noto"
+        },
+        "description": "Äs Nödt (エス・ノト, Esu Noto) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"F\" - \"The Fear\". Äs has long, black hair and dark eyes with visibly light pupils. His attire is a variation of the Sternritter's typical white uniform, consisting of the order's signature hooded cloak, an ankle-length trench coat with many buttons on its front and sleeves, and black boots.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/1/17/Ep370AsProfile.png/revision/latest?cb=20221031203145&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "december 29th",
-            "gender": "male",
-            "height": "179 cm (5'10\u00bd\")",
+            "race": "Quincy",
+            "birthday": "December 29th",
+            "gender": "Male",
+            "height": "179 cm (5'10½\")",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"f\"[1] - \"the fear\"[2]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"F\"[1] - \"The Fear\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi thorns",
-                "signature skill": "fear inducement"
+                "spirit weapon": "Reishi Thorns",
+                "signature skill": "Fear Inducement"
             },
             "First Appearance": {
-                "manga": "chapter 494",
-                "anime": "episode 369"
+                "manga": "Chapter 494",
+                "anime": "Episode 369"
             },
             "Voices": {
-                "japanese": "yoshitsugu matsuoka",
-                "english": "elijah ungvary",
-                "spanish": "javi s\u00e1nchez (latin america)"
+                "japanese": "Yoshitsugu Matsuoka",
+                "english": "Elijah Ungvary",
+                "spanish": "Javi Sánchez (Latin America)"
             }
         },
         "media": [
             {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/1/17/Ep370AsProfile.png/revision/latest?cb=20221031203145&path-prefix=en",
-                "alt": ""
-            },
-            {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/12/Ep385AsHospitalized.png/revision/latest?cb=20230812204913&path-prefix=en",
-                "alt": "\u00c4s is bedridden."
+                "alt": "Äs is bedridden."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/85/Ep370AsHandCut.png/revision/latest?cb=20221101062553&path-prefix=en",
-                "alt": "\u00c4s is cut by Byakuya."
+                "alt": "Äs is cut by Byakuya."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/23/Ep371AsWoundsByakuya.png/revision/latest?cb=20221107200157&path-prefix=en",
-                "alt": "\u00c4s unleashes Senbonzakura Kageyoshi against Byakuya."
+                "alt": "Äs unleashes Senbonzakura Kageyoshi against Byakuya."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/ec/506As%2C_Bazz-B%2C_and_NaNaNa_attack.png/revision/latest?cb=20170829012133&path-prefix=en",
-                "alt": "\u00c4s, NaNaNa, and Bazz-B ambush Yamamoto."
+                "alt": "Äs, NaNaNa, and Bazz-B ambush Yamamoto."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/d/db/567As_is_frozen.png/revision/latest?cb=20170903165241&path-prefix=en",
-                "alt": "\u00c4s N\u00f6dt is frozen."
+                "alt": "Äs Nödt is frozen."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/26/570As_dies.png/revision/latest?cb=20170903165939&path-prefix=en",
-                "alt": "\u00c4s dies."
+                "alt": "Äs dies."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e5/Ep370AsStealsBankai.png/revision/latest?cb=20221101064451&path-prefix=en",
-                "alt": "\u00c4s uses his medallion to steal Senbonzakura Kageyoshi."
+                "alt": "Äs uses his medallion to steal Senbonzakura Kageyoshi."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/82/TheFear.gif/revision/latest?cb=20221205000025&path-prefix=en",
-                "alt": "\u00c4s overwhelms Byakuya Kuchiki with The Fear."
+                "alt": "Äs overwhelms Byakuya Kuchiki with The Fear."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2a/Ep370AsBlocksZabimaru.png/revision/latest?cb=20221031203045&path-prefix=en",
-                "alt": "\u00c4s demonstrates his Blut Vene by blocking Zabimaru without injury."
+                "alt": "Äs demonstrates his Blut Vene by blocking Zabimaru without injury."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/8/81/Ep370AsSpiritWeapon.png/revision/latest?cb=20221101062731&path-prefix=en",
-                "alt": "\u00c4s' Spirit Weapon."
+                "alt": "Äs' Spirit Weapon."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/70/Ep385AsVollstandigTatarforas.png/revision/latest?cb=20230812205156&path-prefix=en",
-                "alt": "\u00c4s' Quincy: Vollst\u00e4ndig."
+                "alt": "Äs' Quincy: Vollständig."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/c/cc/569As%27s_giant_form.png/revision/latest?cb=20170903165818&path-prefix=en",
-                "alt": "\u00c4s N\u00f6dt transformed."
+                "alt": "Äs Nödt transformed."
             }
         ],
         "quotes": [
@@ -3076,7 +3039,7 @@
             },
             {
                 "quote": "Fear. The power of fear. Is this the power of fear? NO. This is not fear. This does not even approach fear. My only fear is to be rebuked by His Majesty! To be rebuked by His Majesty and have all of this body taken from me! Compared to such terror, mere battle can hold no fear, no pain, nothing!",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 568, pages 2-6"
             },
             {
@@ -3085,7 +3048,7 @@
                 "reference": "Bleach manga; Chapter 569, page 9"
             },
             {
-                "quote": "I'm not dead yet. Breathing is such a painful act. To think that it is impossible to live without suffering this pain constantly... Life is such an inconvenient state. I was taught that after death, we either go to heaven or to hell. Perhaps in heaven, it is not painful to breathe. Perhaps in heaven, my body and my head would not ache so. That would be nice. And hell...is there even more pain there than I am feeling right now? If so, that's a little frightening. I don\u2019t want to go there. I'm scared. I'm afraid. I don't want to go to hell.",
+                "quote": "I'm not dead yet. Breathing is such a painful act. To think that it is impossible to live without suffering this pain constantly... Life is such an inconvenient state. I was taught that after death, we either go to heaven or to hell. Perhaps in heaven, it is not painful to breathe. Perhaps in heaven, my body and my head would not ache so. That would be nice. And hell...is there even more pain there than I am feeling right now? If so, that's a little frightening. I don’t want to go there. I'm scared. I'm afraid. I don't want to go to hell.",
                 "to": "While in the hospital",
                 "reference": "Bleach' manga; Chapter 570, pages 1-2"
             },
@@ -3097,47 +3060,41 @@
         ]
     },
     {
-        "name": "Quilge Opie",
+        "id": "quilge_opie",
+        "name": {
+            "english": "Quilge Opie",
+            "kanji": "キルゲ・オピー, Kiruge Opī) is the executive hunting captain (統括狩猟隊長, tōkatsu shuryō taichō) of the first Jagdarmee of the Wandenreich. He is also a member of the Sternritter with the designation \"J\" - \"The Jail\"",
+            "romaji": "and is known as Quilge Opie of \"the Jail\" (\"監獄\" (ザ・ジェイル"
+        },
+        "description": "Quilge Opie in \"MARCH OF THE STARCROSS\"For in the eyes of any twisted and barbaric Shinigami, to face the ultimate enforcers of all that is holy and righteous must be an abhorrent and terrifying sight indeed! Quilge Opie (キルゲ・オピー, Kiruge Opī) is the executive hunting captain (統括狩猟隊長, tōkatsu shuryō taichō) of the first Jagdarmee of the Wandenreich.",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/0/0a/Ep368QuilgeProfile.png/revision/latest?cb=20221017202135&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "birthday": "september 1st",
-            "gender": "male",
+            "race": "Quincy",
+            "birthday": "September 1st",
+            "gender": "Male",
             "height": "178 cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "occupation": "executive hunting captainof the 1st jagdarmee",
-                "epithet": "\"j\" - \"the jail\"",
-                "previous team": "1st jagdarmee sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "occupation": "Executive Hunting Captainof the 1st Jagdarmee",
+                "epithet": "\"J\" - \"The Jail\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "reishi sword",
-                "signature skill": "reishi cages"
+                "spirit weapon": "Reishi Sword",
+                "signature skill": "Reishi Cages"
             },
             "First Appearance": {
-                "manga": "chapter 487",
-                "anime": "episode 368"
+                "manga": "Chapter 487",
+                "anime": "Episode 368"
             },
             "Voices": {
-                "japanese": "koichi yamadera",
-                "english": "xander mobus",
-                "spanish": "hiram cardenas (latin america)"
+                "japanese": "Koichi Yamadera",
+                "english": "Xander Mobus",
+                "spanish": "Hiram Cardenas (Latin America)"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/0/0a/Ep368QuilgeProfile.png/revision/latest?cb=20221017202135&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/1/1b/487Quilge_stabs.png/revision/latest?cb=20170605234754&path-prefix=en",
                 "alt": "Quilge stabs an outspoken Arrancar."
@@ -3180,7 +3137,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/4b/Ep370Ransotengai.png/revision/latest?cb=20221101072137&path-prefix=en",
-                "alt": "Quilge continues to fight by using Rans\u014dtengai."
+                "alt": "Quilge continues to fight by using Ransōtengai."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e9/489Quilge%27s_Spirit_Weapon.png/revision/latest?cb=20170827160757&path-prefix=en",
@@ -3188,7 +3145,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/36/Ep369QuilgeVollstandigBiskiel.png/revision/latest?cb=20221025180124&path-prefix=en",
-                "alt": "Quilge's Quincy: Vollst\u00e4ndig, Biskiel."
+                "alt": "Quilge's Quincy: Vollständig, Biskiel."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/4/46/Ep369QuilgeAlteredBiskiel.png/revision/latest?cb=20221025185557&path-prefix=en",
@@ -3208,50 +3165,51 @@
             },
             {
                 "quote": "My orders from His Majesty are to delay Kurosaki Ichigo... even at the cost of my own life!!",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 499, page 14"
             },
             {
                 "quote": "The letter I have been granted by His Majesty is ",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 500, page 15"
             }
         ]
     },
     {
-        "name": "Pernida Parnkgjas",
+        "id": "pernida_parnkgjas",
+        "name": {
+            "english": "Pernida Parnkgjas",
+            "kanji": "ペルニダ・パルンカジャス, Perunida Parunkajasu) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"C\" - \"The Compulsory\", as well as one of Yhwach's Schutzstaffel (親衛隊 (シャトズスタフェル), Shatozusutaferu; German for \"Protective Echelon\"",
+            "romaji": "Japanese for \"Elite/Imperial Guards\""
+        },
+        "description": "Pernida Parnkgjas in \"FRIEND\"Shameless? How is claiming to be a Quincy shameless? I... have always been a Quincy. Pernida Parnkgjas (ペルニダ・パルンカジャス, Perunida Parunkajasu) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"C\" - \"The Compulsory\", as well as one of Yhwach's Schutzstaffel (親衛隊 (シャトズスタフェル), Shatozusutaferu; German for \"Protective Echelon\", Japanese for \"Elite/Imperial Guards\"). It is also the left hand of the Soul King.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/2/22/637Pernida_profile.png/revision/latest?cb=20190507231323&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/0/01/600Pernida_profile.png/revision/latest?cb=20190430014829&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "gender": "genderless",
+            "race": "Quincy",
+            "gender": "Genderless",
             "Professional Status": {
-                "previous affiliation": "wandenreich, soul king",
-                "occupation": "left hand of the soul king",
-                "epithet": "c - the compulsory[1]",
-                "previous team": "schutzstaffel, sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": [
+                    "Wandenreich",
+                    "Soul King"
+                ],
+                "occupation": "Left Hand of the Soul King",
+                "epithet": "C - The Compulsory",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "heilig bogen",
-                "signature skill": "evolution governance"
+                "spirit weapon": "Heilig Bogen",
+                "signature skill": "Evolution Governance"
             },
             "First Appearance": {
-                "manga": "chapter 599",
-                "anime": "episode 380"
+                "manga": "Chapter 599",
+                "anime": "Episode 380"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/22/637Pernida_profile.png/revision/latest?cb=20190507231323&path-prefix=en",
                 "alt": "Unhooded Form"
@@ -3282,7 +3240,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/fe/639Konjiki_Ashisogi_Jizo_devours.png/revision/latest?cb=20190507232437&path-prefix=en",
-                "alt": "A modified Konjiki Ashisogi Jiz\u014d devours Pernida and its clones."
+                "alt": "A modified Konjiki Ashisogi Jizō devours Pernida and its clones."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/21/640Pernida_creates.png/revision/latest?cb=20190507233204&path-prefix=en",
@@ -3315,46 +3273,44 @@
         ]
     },
     {
-        "name": "Gremmy Thoumeaux",
+        "id": "gremmy_thoumeaux",
+        "name": {
+            "english": "Gremmy Thoumeaux",
+            "kanji": "グレミィ・トゥミュー",
+            "romaji": "Guremī Tumyū"
+        },
+        "description": "Gremmy Thoumeaux (グレミィ・トゥミュー, Guremī Tumyū) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"V\" - \"The Visionary\". Gremmy has a child-like appearance, with messy blond hair, youthful features, and red eyes. His attire is a variation of the Sternritter's typical white uniform, consisting of a loose trench coat featuring a hood and a high collar. However, this body is only a product of his power. His real vessel is a disembodied brain in a protective casing.",
         "avatar": [
             "https://static.wikia.nocookie.net/bleach/images/0/0e/572Gremmy_profile.png/revision/latest?cb=20170904013725&path-prefix=en",
             "https://static.wikia.nocookie.net/bleach/images/e/ef/579Gremmy%27s_true_form.png/revision/latest?cb=20201027165357&path-prefix=en"
         ],
         "stats": {
-            "race": "quincy",
-            "birthday": "june 30[1]",
-            "gender": "male",
-            "height": "155cm[1]",
+            "race": "Quincy",
+            "birthday": "June 30",
+            "gender": "Male",
+            "height": "155cm",
             "Professional Status": {
-                "previous affiliation": "wandenreich",
-                "epithet": "\"v\" - \"the visionary\"[2]",
-                "previous team": "sternritter",
-                "base of operations": "silbern"
+                "previous affiliation": "Wandenreich",
+                "epithet": "\"V\" - \"The Visionary\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Personal Status": {
-                "relatives": "guenael lee (creation)"
+                "relatives": "Guenael Lee"
             },
             "Primary Skills": {
-                "signature skill": "imagination manifestation"
+                "signature skill": "Imagination Manifestation"
             },
             "First Appearance": {
-                "manga": "chapter 572",
-                "anime": "episode 380",
-                "video game": "bleach: brave souls"
+                "manga": "Chapter 572",
+                "anime": "Episode 380",
+                "video game": "Bleach: Brave Souls"
             },
             "Voices": {
-                "japanese": "natsuki hanae"
+                "japanese": "Natsuki Hanae"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/0/0e/572Gremmy_profile.png/revision/latest?cb=20170904013725&path-prefix=en",
                 "alt": "Normal Form"
@@ -3410,12 +3366,12 @@
             },
             {
                 "quote": "What's this? What did he say just now? If I'm the strongest, I must want to take down the strongest? I'd never even considered such a thing. From the very beginning, there was never a single person who posed a threat to me. After all, I never had any doubts. I've always known I'm the strongest of them all. There's no need to prove it by killing other people. So I never felt the need to crush somebody else with my strength. And yet... And yet why is it that right now, I want to crush this man so much?!",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "13.0 13.1 Bleach manga; Chapter 575, pages 12-14"
             },
             {
                 "quote": "I want to win. I want to win, I want to win, I want to win! For the first time in my life, I feel a true desire to win against somebody!",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 578, pages 14-15"
             },
             {
@@ -3426,42 +3382,39 @@
         ]
     },
     {
-        "name": "Gerard Valkyrie",
+        "id": "gerard_valkyrie",
+        "name": {
+            "english": "Gerard Valkyrie",
+            "kanji": "ジェラルド・ヴァルキリー, Jerarudo Varukirī) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"M\" - The Miracle, as well as one of Yhwach's Schutzstaffel (親衛隊 (シュッツシュタッフェル), Shuttsushutafferu; German for \"Protective Echelon\"",
+            "romaji": "Japanese for \"Elite/Imperial Guards\""
+        },
+        "description": "Gerard Valkyrie in \"BABY,HOLD YOUR HAND\"At what point did I say this would be a one-on-one fight? In a fair duel, not even a miracle would allow you to defeat me! Come at me together! Gerard Valkyrie (ジェラルド・ヴァルキリー, Jerarudo Varukirī) is a Quincy and a member of the Wandenreich's Sternritter with the designation \"M\" - The Miracle, as well as one of Yhwach's Schutzstaffel (親衛隊 (シュッツシュタッフェル), Shuttsushutafferu; German for \"Protective Echelon\", Japanese for \"Elite/Imperial Guards\").",
         "avatar": "https://static.wikia.nocookie.net/bleach/images/d/d0/647Gerard_profile.png/revision/latest?cb=20190514051345&path-prefix=en",
         "stats": {
-            "race": "quincy",
-            "gender": "male",
+            "race": "Quincy",
+            "gender": "Male",
             "Professional Status": {
-                "previous affiliation": "wandenreich, soul king",
-                "epithet": "\"m\" - \"the miracle\"[1]",
-                "previous team": "sternritter, schutzstaffel",
-                "base of operations": "silbern"
+                "previous affiliation": [
+                    "Wandenreich",
+                    "Soul King"
+                ],
+                "epithet": "\"M\" - \"The Miracle\"",
+                "previous team": "Sternritter",
+                "base of operations": "Silbern"
             },
             "Primary Skills": {
-                "spirit weapon": "hoffnung",
-                "signature skill": "damage conversion through miracle manifestation"
+                "spirit weapon": "Hoffnung",
+                "signature skill": "Damage Conversion through Miracle Manifestation"
             },
             "First Appearance": {
-                "manga": "chapter 599",
-                "anime": "episode 380"
+                "manga": "Chapter 599",
+                "anime": "Episode 380"
             },
             "Voices": {
-                "japanese": "tsuyoshi koyama"
+                "japanese": "Tsuyoshi Koyama"
             }
         },
         "media": [
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/e/e6/Site-logo.png/revision/latest?cb=20210618121129&path-prefix=en",
-                "alt": "Bleach Wiki"
-            },
-            {
-                "source": "https://static.wikia.nocookie.net/bleach/images/d/d0/647Gerard_profile.png/revision/latest?cb=20190514051345&path-prefix=en",
-                "alt": ""
-            },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/a/a6/599Gerard_attacks.png/revision/latest?cb=20190430014339&path-prefix=en",
                 "alt": "Gerard attacks Senjumaru."
@@ -3472,7 +3425,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/b/be/603Yhwach_revives.png/revision/latest?cb=20190501024723&path-prefix=en",
-                "alt": "Yhwach revives Gerard and the other Schutzstaffel with Ausw\u00e4hlen."
+                "alt": "Yhwach revives Gerard and the other Schutzstaffel with Auswählen."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/9/9d/625Schutzstaffel_sit.png/revision/latest?cb=20190505013145&path-prefix=en",
@@ -3512,7 +3465,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/e/e7/670Gerard_survives.png/revision/latest?cb=20190522182646&path-prefix=en",
-                "alt": "Gerard survives being bifurcated and activates his Quincy: Vollst\u00e4ndig."
+                "alt": "Gerard survives being bifurcated and activates his Quincy: Vollständig."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/2/2a/671Gerard_breaks_free.png/revision/latest?cb=20190522183025&path-prefix=en",
@@ -3524,7 +3477,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/3/3e/680Gerard_dies.png/revision/latest?cb=20190523141315&path-prefix=en",
-                "alt": "Gerard is killed by Yhwach's Ausw\u00e4hlen."
+                "alt": "Gerard is killed by Yhwach's Auswählen."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/f/f3/667Gerard_regenerates.png/revision/latest?cb=20190522181800&path-prefix=en",
@@ -3544,7 +3497,7 @@
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/7f/670Gerard%27s_Vollstandig%2C_Aschetonig.png/revision/latest?cb=20190522182717&path-prefix=en",
-                "alt": "Gerard's Quincy: Vollst\u00e4ndig, Aschetonig."
+                "alt": "Gerard's Quincy: Vollständig, Aschetonig."
             },
             {
                 "source": "https://static.wikia.nocookie.net/bleach/images/7/77/672Gerard%27s_new_form.png/revision/latest?cb=20190522183214&path-prefix=en",
@@ -3553,7 +3506,7 @@
         ],
         "quotes": [
             {
-                "quote": "A woman\u2019s slender arms cannot hope to halt a strike from my blade!",
+                "quote": "A woman’s slender arms cannot hope to halt a strike from my blade!",
                 "to": "Senjumaru Shutara",
                 "reference": "Bleach manga; Chapter 599, page 12"
             },
@@ -3563,7 +3516,7 @@
                 "reference": "Bleach manga; Chapter 647, pages 12-13"
             },
             {
-                "quote": "Do you know when the phenomenon known as a \u201cmiracle\u201d occurs? If a miracle were to occur at an ordinary moment nobody would think of it as such. 'Oh, hey.' 'You were pretty lucky there.' 'Strange things do happen.' That\u2019s all they\u2019d think.",
+                "quote": "Do you know when the phenomenon known as a “miracle” occurs? If a miracle were to occur at an ordinary moment nobody would think of it as such. 'Oh, hey.' 'You were pretty lucky there.' 'Strange things do happen.' That’s all they’d think.",
                 "to": "several powerful Shinigami",
                 "reference": "Bleach manga; Chapter 655, page 1"
             },
@@ -3594,12 +3547,12 @@
             },
             {
                 "quote": "I am the biggest, strongest and fastest of all Quincy! A warrior granted every blessing! Did you really expect to outwit me in battle?!",
-                "to": "T\u014dshir\u014d Hitsugaya and Byakuya Kuchiki",
+                "to": "Tōshirō Hitsugaya and Byakuya Kuchiki",
                 "reference": "Bleach manga; Chapter 668, page 15"
             },
             {
                 "quote": "I am 'Aschetonig'. Noble warrior of God. Even in death, I wield this blade for my divine master!",
-                "to": "Himself",
+                "to": "Herself",
                 "reference": "Bleach manga; Chapter 670, page 11"
             }
         ]
