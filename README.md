@@ -9,14 +9,16 @@ So I want to thank all creators over there.
 
 # Data
 
-- Characters
-    - `Log File`
-    - ArranCar
-    - Humans
-    - Quincy
-    - Shinigami
+```
+Characters/
+├── Log File
+├── ArranCar/
+├── Humans/
+├── Quincy/
+└── Shinigami/
+```
 
-`Log file` conatins an overview of total aggregate data present in the database.
+**NOTE**: `Log file` conatins an overview of total aggregate data present in the database.
 
 # Charater Data Schema
 
