@@ -7,7 +7,15 @@ from rich import print
 from rich.progress import track
 
 
-def sanitize(original_string):
+def sanitize(original_string: str) -> str:
+    """Cleans the text for excessive space and special characters.
+
+    Args:
+        original_string: Original string which is to be processed
+    
+    Returns:
+        Cleaned and sanitized string.
+    """
     cleaned_string = re.sub(r"[\t\n\s]+", " ", original_string)
     cleaned_string = re.sub(r"\[\d+\]$", "", cleaned_string)
     cleaned_string = re.sub(r" +", " ", cleaned_string).strip()
@@ -17,7 +25,7 @@ def sanitize(original_string):
     return cleaned_string
 
 
-def parse_quote(quote, gender="male"):
+def parse_quote(quote: str, gender: str ="male") -> (str, str):
     text = re.findall(r'"([^"]*)"', quote)
     if text:
         text = text[0]
